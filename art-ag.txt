@@ -8,6 +8,7 @@ dignidade da advocacia e condições adequadas a seu desempenho.
 ======
 missing:
 serventuário
+
 mwes: 
 Ministério Público
-servidor público
+servidor público : actually in 10372373-n
