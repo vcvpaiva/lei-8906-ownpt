@@ -6,13 +6,16 @@ Art. 2º O advogado é indispensável à administração da justiça.
 
  ================
 missing from OWN-PT:
-ministério: in this sense
-constituinte: in this sense suggested in: http://wnpt.brlcloud.com/wn/synset?id=09985075-n
-decisão: already in 05838176-n
-convencimento: talvez 05942888-n suggested in: http://wnpt.brlcloud.com/wn/synset?id=07245125-n
+1. ministério: in this sense
+2. constituinte: in this sense suggested in: http://wnpt.brlcloud.com/wn/synset?id=09985075-n
+3. decisão: already in 05838176-n
+4. convencimento: talvez 05942888-n suggested in: http://wnpt.brlcloud.com/wn/synset?id=07245125-n
 
 mwes:
 serviço público: added to 08186047-n (more than a 1000 days ago) suggested in: http://wnpt.brlcloud.com/wn/synset?id=01210281-n
-função social: added to 00722061-n
-processo judicial: added to 01181902-n, already in 01182654-n
-múnus público: ??
+1. função social: added to 00722061-n
+2. processo judicial: added to 01181902-n, already in 01182654-n
+3. múnus público: ??
+
+vcvp mistake: serviço público: added to 08186047-n (more than a 1000 days ago) suggested in: http://wnpt.brlcloud.com/wn/synset?id=01210281-n
+"serviço público" is a mwe but not in this sentence, here it's really a "service" that is for the public.
