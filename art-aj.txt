@@ -13,3 +13,15 @@ VII - prestar compromisso perante o conselho.
 § 3º A inidoneidade moral, suscitada por qualquer pessoa, deve ser declarada mediante decisão que obtenha no mínimo dois terços dos votos de todos os membros do conselho competente, em procedimento que observe os termos do processo disciplinar.
 § 4º Não atende ao requisito de idoneidade moral aquele que tiver sido condenado por crime infamante, salvo reabilitação judicial.
 
+====
+missing:
+1. credenciado a
+2. provimento n
+3. revalidado
+4. inidoneidade
+5. suscitar (in this sense)
+
+mwes:
+1. título de eleitor
+2. serviço militar
+
