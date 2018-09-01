@@ -6,9 +6,18 @@ no âmbito do impedimento - suspenso, licenciado ou que passar a exercer
 atividade incompatível com a advocacia.
 
 =========
-sanções civis
-sanções penais
-sanções administrativas
+mwes:
+1. sanções civis
+2. sanções penais
+3. sanções administrativas
 
-missing impedimento in football =
+we have at least
+1. 01139000-n sanction | sanção
+ (the act of final authorization; "it had the sanction of the church")
+2. 01124246-n sanction | sanção
+    (a mechanism of social control for enforcing a society's standards)
+3. 03575958-n instrument_of_punishment | sanção jurídica
+    (an instrument designed and used to punish a condemned person)
+
+missing impedimento in football = offside (added)
 
