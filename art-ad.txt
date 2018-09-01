@@ -12,14 +12,17 @@ no [$art. 1º$], na forma do [#regimento geral#], em conjunto com advogado e
 sob responsabilidade deste.
 
 =============
-mwes or missing terms:
-      território brasileiro
-      Advocacia-Geral da União: ??
-      procuradoria
-      Fazenda Nacional
-      Defensoria Pública
-      Distrito Federal
-      fundacional
-      regimento geral
+missing terms:
+1. procuradoria
+2. fundacional- a
+3. defensoria
+
+mwes:
+1. território brasileiro: we have territory 08552138-n
+2. Advocacia-Geral da União: ??      
+3. Fazenda Nacional: in 08139795-n
+4. Defensoria Pública: actually in 10490557-n public_defender
+5. Distrito Federal:  in 08553280-n 
+6. regimento geral: ???
       
       
