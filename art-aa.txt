@@ -15,13 +15,15 @@ CAPÍTULO I: Da Atividade de Advocacia
 
 =============
 mwes: 
-1. Estatuto da Advocacia
-2. Ordem dos Advogados do Brasil (OAB)
-3. O PRESIDENTE DA REPÚBLICA
-4. Congresso Nacional
-5. Diario Oficial da Uniao (DOU)
+1. Estatuto da Advocacia: We have estatuto http://wnpt.brlcloud.com/wn/synset?id=06564387-n
+2. Ordem dos Advogados do Brasil (OAB): we have ordem http://wnpt.brlcloud.com/wn/synset?id=08242675-n
+3. PRESIDENTE DA REPÚBLICA:  we have presidente de uma republica http://wnpt.brlcloud.com/wn/synset?id=10467179-n
+4. Congresso Nacional: we have congresso nacional http://wnpt.brlcloud.com/wn/synset?id=08318691-n
+5. Diário Oficial da União (DOU): ??
 
 ellipsis:
 1. 173º da Independência (173º [ano depois] da Independência)
+2. Presidente da Republica do Brasil (corresponding to http://wnpt.brlcloud.com/wn/synset?id=10467395-n)
+3. Congresso Nacional do Brasil (corresponding to http://wnpt.brlcloud.com/wn/synset?id=08161757-n)
 
 ABS, PRE, DATA and OBS are metadata created by the project
