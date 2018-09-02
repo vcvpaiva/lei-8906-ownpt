@@ -4,4 +4,16 @@ Art. 10. A inscrição principal do advogado deve ser feita no Conselho Secciona
 § 2º Além da principal, o advogado deve promover a inscrição suplementar nos Conselhos Seccionais em cujos territórios passar a exercer habitualmente a profissão considerando-se habitualidade a intervenção judicial que exceder de cinco causas por ano.
 § 3º No caso de mudança efetiva de domicílio profissional para outra unidade federativa, deve o advogado requerer a transferência de sua inscrição para o Conselho Seccional correspondente.
 § 4º O Conselho Seccional deve suspender o pedido de transferência ou de inscrição suplementar, ao verificar a existência de vício ou ilegalidade na inscrição principal, contra ela representando ao Conselho Federal.
+========
+mwes:
+1. domicílio profissional
+2. regulamento geral
+3. pessoa física
+4. unidade federativa
+5. pedido de transferência
+6. Conselho Federal [da OAB]
+
+terms:
+1. habitualidade
+ 
 
