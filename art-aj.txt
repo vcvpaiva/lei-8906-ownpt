@@ -24,4 +24,7 @@ missing:
 mwes:
 1. título de eleitor
 2. serviço militar
+3. idoneidade moral
+4. reabilitação judicial
+5. processo disciplinar
 
