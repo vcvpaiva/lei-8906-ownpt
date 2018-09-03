@@ -134,9 +134,11 @@ impedir o acesso do advogado com o intuito de prejudicar o exercício da defesa,
 direito subjetivo do advogado de requerer acesso aos autos ao juiz competente
 
 =================
+
 missing:
+
 1. inviolabilidade n
-2. incomunicável
+2. incomunicável (temos http://wnpt.brlcloud.com/wn/synset?id=00496569-a mas não incomunicável)
 3. telemática
 4. auto
 5. seccional
