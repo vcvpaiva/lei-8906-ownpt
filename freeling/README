@@ -1,0 +1,16 @@
+
+Produzir TXT lei a partir XML (obtido com parser Bruno):
+
+xsltproc ../extract.xslt ../lei-8906.xml > lei-8906.txt
+
+Editamos o arquivo txt colocando um cabeçalho para alinhar arquivos
+saida com os arquivos do diretório abaixo.
+
+Separação dos arquivos
+
+split -p "---" lei-8906.txt art-
+
+Rodar FREELING
+
+for f in *.txt; do analyze --noflush -f pt.cfg < $f  > $(basename $f .txt).out ; done
+
