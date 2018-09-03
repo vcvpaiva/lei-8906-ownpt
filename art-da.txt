@@ -1,2 +1,24 @@
 Art. 76. Cabe recurso ao Conselho Seccional de todas as decisões proferidas por seu Presidente, pelo Tribunal de Ética e Disciplina, ou pela diretoria da Subseção ou da Caixa de Assistência dos Advogados.
 
+
+
+=========
+missing from OWN-PT:
+
+decisão: maybe http://wnpt.brlcloud.com/wn/synset?id=01187810-n (não são decisões de um Tribunal propriamente dito, são decisões de diretores/presidente da OAB e de membros do Tribunal de Ética da OAB)
+
+proferir maybe http://wnpt.brlcloud.com/wn/synset?id=00941990-v or http://wnpt.brlcloud.com/wn/synset?id=01027508-v
+
+Tribunal de Ética e Disciplina: temos Tribunal (http://wnpt.brlcloud.com/wn/synset?id=08329453-n e http://wnpt.brlcloud.com/wn/synset?id=03649459-n)
+
+Subseção where? (órgão da OAB)
+
+Caixa de Assistência dos Advogados where? (órgão da OAB)
+
+
+=========
+OK:
+
+recurso ok em http://wnpt.brlcloud.com/wn/synset?id=01185611-n
+
+diretoria ok em http://wnpt.brlcloud.com/wn/synset?id=08380768-n
