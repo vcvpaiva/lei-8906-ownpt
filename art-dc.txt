@@ -1,2 +1,16 @@
 Art. 78. Cabe ao Conselho Federal da OAB, por deliberação de dois terços, pelo menos, das delegações, editar o [#regulamento geral#] [$deste estatuto$], no prazo de seis meses, contados da publicação [$desta lei$].
 
+
+=========
+missing from OWN-PT:
+
+deliberação suggested in http://wnpt.brlcloud.com/wn/synset?id=07142365-n
+
+=========
+OK: 
+
+delegação ok em http://wnpt.brlcloud.com/wn/synset?id=08402442-n
+
+prazo ok em http://wnpt.brlcloud.com/wn/synset?id=15224156-n
+
+publicação: ok em http://wnpt.brlcloud.com/wn/synset?id=01103614-n
