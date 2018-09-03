@@ -1,4 +1,4 @@
----
+
  Consideram-se eleitos os candidatos integrantes da chapa que
 
 obtiver a maioria dos votos válidos.

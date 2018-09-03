@@ -1,4 +1,4 @@
----
+
  Extingue-se o mandato automaticamente, antes do seu término,
 
 quando:

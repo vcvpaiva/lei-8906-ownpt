@@ -1,4 +1,4 @@
----
+
  A exclusão é aplicável nos casos de:
 
 aplicação, por três vezes, de suspensão;
