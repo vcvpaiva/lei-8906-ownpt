@@ -1,2 +1,25 @@
 Art. 80. Os Conselhos Federal e Seccionais devem promover trienalmente as respectivas Conferências, em data não coincidente com o ano eleitoral, e, periodicamente, reunião do colégio de presidentes a eles vinculados, com finalidade consultiva.
 
+=========
+missing from OWN-PT:
+
+coincidir: suggested in http://wnpt.brlcloud.com/wn/synset?id=00345312-v
+
+colégio: maybe http://wnpt.brlcloud.com/wn/synset?id=07965085-n
+
+=========
+OK: 
+
+trienal: ok em http://wnpt.brlcloud.com/wn/synset?id=01969606-a
+
+conferência: ok em http://wnpt.brlcloud.com/wn/synset?id=08308497-n (quando ele fala "Conferência" com "c" maiusculo, ele está se referindo a "Conferência da OAB". Então apesar de ele não dizer isso explicitamente não estamos falando de qualquer conferência, mas sim a da OAB)
+
+eleitoral: ok em http://wnpt.brlcloud.com/wn/synset?id=02717538-a
+
+periodicamente: ok em http://wnpt.brlcloud.com/wn/synset?id=00212974-r
+
+reunião: ok em http://wnpt.brlcloud.com/wn/synset?id=01231686-n
+
+finalidade: ok em http://wnpt.brlcloud.com/wn/synset?id=05982152-n
+
+consultivo: ok em http://wnpt.brlcloud.com/wn/synset?id=01304802-a 
