@@ -1,2 +1,29 @@
 Art. 81. Não se aplicam aos que tenham assumido originariamente o cargo de Presidente do Conselho Federal ou dos Conselhos Seccionais, até a data da publicação [$desta lei$], as normas contidas no [$Título II$], acerca da composição desses Conselhos, ficando assegurado o pleno direito de voz e voto em suas sessões.
 
+=========
+missing from OWN-PT:
+
+originariamente: suggested in http://wnpt.brlcloud.com/wn/synset?id=00103194-r
+
+direito de voz: temos right (http://wnpt.brlcloud.com/wn/synset?id=05174653-n) e legal right (http://wnpt.brlcloud.com/wn/synset?id=05177285-n), mas mencionando o direito especificamente só temos:  right_of_re-entry, seat, pre-emption, right_of_entry, conjugal_right, eminent_domain, right_of_privacy, visitation_right, conjugal_visitation_right, usufruct, franchise, right_of_election, compulsory_process, right_of_first_publication, patent_right, use, title, right_of_offset, land_tenure 
+
+direito de voto: só temos:  temos right (http://wnpt.brlcloud.com/wn/synset?id=05174653-n) e legal right (http://wnpt.brlcloud.com/wn/synset?id=05177285-n), mas mencionando o direito especificamente só temos:  right_of_re-entry, seat, pre-emption, right_of_entry, conjugal_right, eminent_domain, right_of_privacy, visitation_right, conjugal_visitation_right, usufruct, franchise, right_of_election, compulsory_process, right_of_first_publication, patent_right, use, title, right_of_offset, land_tenure 
+
+=========
+OK: 
+
+assumir: ok em http://wnpt.brlcloud.com/wn/synset?id=02381726-v
+
+cargo: ok em http://wnpt.brlcloud.com/wn/synset?id=00586105-n
+
+presidente: ok em http://wnpt.brlcloud.com/wn/synset?id=10468559-n
+
+publicação: ok em http://wnpt.brlcloud.com/wn/synset?id=01103614-n
+
+normas: ok em http://wnpt.brlcloud.com/wn/synset?id=06652242-n
+
+composição: ok em http://wnpt.brlcloud.com/wn/synset?id=03081660-n
+
+direito: ok em http://wnpt.brlcloud.com/wn/synset?id=05174653-n
+
+sessão: ok em http://wnpt.brlcloud.com/wn/synset?id=07145508-n
