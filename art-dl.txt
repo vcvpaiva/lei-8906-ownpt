@@ -4,7 +4,11 @@ Art. 87. Revogam-se as disposições em contrário, especialmente a [#Lei nº 4.
 missing from OWN-PT:
 
 revogar: added to http://wnpt.brlcloud.com/wn/synset?id=00231887-n
+this is a noun, revogar is a verb, no good.
+"revogar" is  in 4 synsets, I suggest 00799798-v, but the others also work.
+    
 
 disposição maybe: http://wnpt.brlcloud.com/wn/synset?id=06652242-n (problema: com esse artigo ele está dizendo que estão revogadas quaisquer normas que forem contrárias à lei 8906 - isso pode ser um trecho de um artigo, um artigo inteiro ou uma lei inteira. Poderíamos chamar, então de "normas" como uma palavra geral, contudo não temos um sentido para norma que seja do contexto jurídico na OWN)
+Esse synset nao 'e bom, nao 'e juridico e nao 'e sobre regulamentos.
 
 contrário: ok em http://wnpt.brlcloud.com/wn/synset?id=13858604-n
