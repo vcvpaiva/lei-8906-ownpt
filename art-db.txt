@@ -4,3 +4,37 @@ Parágrafo único. O [#regulamento geral#] disciplina o cabimento de recursos es
 
 TÍTULO IV: Das Disposições Gerais e Transitórias
 
+
+=========
+missing from OWN-PT:
+
+suspensivo where? não encontrei suspensivo como adjetivo, só o verbo suspender (http://wnpt.brlcloud.com/wn/synset?id=02643740-v e http://wnpt.brlcloud.com/wn/synset?id=00542668-v)
+
+preventivo maybe http://wnpt.brlcloud.com/wn/synset?id=01763813-a
+
+Tribunal de Ética e Disciplina: temos Tribunal (http://wnpt.brlcloud.com/wn/synset?id=08329453-n e http://wnpt.brlcloud.com/wn/synset?id=03649459-n)
+
+exceto maybe http://wnpt.brlcloud.com/wn/synset?id=05707269-n
+
+inscrição: where? aqui não é o ato de se inscrever (http://wnpt.brlcloud.com/wn/synset?id=00050037-n) nem um documento com a inscrição (http://wnpt.brlcloud.com/wn/synset?id=06479374-n)  
+
+disciplina: maybe http://wnpt.brlcloud.com/wn/synset?id=05662876-n
+
+cabimento maybe http://wnpt.brlcloud.com/wn/synset?id=01020885-a
+
+órgão julgador: where? 
+
+=========
+OK:
+recurso ok em http://wnpt.brlcloud.com/wn/synset?id=01185611-n
+
+efeito ok em http://wnpt.brlcloud.com/wn/synset?id=11414608-n
+
+eleição ok em http://wnpt.brlcloud.com/wn/synset?id=00181781-n
+
+prova ok em http://wnpt.brlcloud.com/wn/synset?id=06733939-n
+
+falso: ok em http://wnpt.brlcloud.com/wn/synset?id=02461723-a
+
+
+
