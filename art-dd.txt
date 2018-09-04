@@ -4,3 +4,34 @@ Art. 79. Aos servidores da OAB, aplica-se o regime trabalhista.
 
 § 2º Os servidores que não optarem pelo regime trabalhista serão posicionados no quadro em extinção, assegurado o direito adquirido ao regime legal anterior.
 
+=========
+missing from OWN-PT:
+
+servidor público: suggested in http://wnpt.brlcloud.com/wn/synset?id=09925459-n
+
+regime, regime trabalhista: where?
+
+direito de opção: temos right (http://wnpt.brlcloud.com/wn/synset?id=05174653-n) e legal right (http://wnpt.brlcloud.com/wn/synset?id=05177285-n), mas mencionando o direito especificamente só temos:  right_of_re-entry, seat, pre-emption, right_of_entry, conjugal_right, eminent_domain, right_of_privacy, visitation_right, conjugal_visitation_right, usufruct, franchise, right_of_election, compulsory_process, right_of_first_publication, patent_right, use, title, right_of_offset, land_tenure 
+
+vigência: suggested in http://wnpt.brlcloud.com/wn/synset?id=04809642-n
+
+assegurado maybe http://wnpt.brlcloud.com/wn/synset?id=00890590-v
+
+optante maybe http://wnpt.brlcloud.com/wn/synset?id=10431625-n
+
+indenização http://wnpt.brlcloud.com/wn/synset?id=13290676-n (aqui está no plural) or http://wnpt.brlcloud.com/wn/synset?id=00259894-n (aqui não tem tradução)
+
+regime legal where?
+
+=========
+OK: 
+
+prazo ok em http://wnpt.brlcloud.com/wn/synset?id=15224156-n
+
+pagamento ok em http://wnpt.brlcloud.com/wn/synset?id=01120448-n
+
+aposentadoria ok em http://wnpt.brlcloud.com/wn/synset?id=00212205-n
+
+remuneração ok em http://wnpt.brlcloud.com/wn/synset?id=13279262-n
+
+
