@@ -2,3 +2,17 @@ Art. 82. Aplicam-se as alterações previstas [$nesta lei$], quanto a mandatos, 
 
 Parágrafo único. Os mandatos dos membros dos órgãos da OAB, eleitos na primeira eleição sob a vigência [$desta lei$], e na forma do [$Capítulo VI do Título II$], terão início no dia seguinte ao término dos atuais mandatos, encerrando-se em 31 de dezembro do terceiro ano do mandato e em 31 de janeiro do terceiro ano do mandato, neste caso com relação ao Conselho Federal.
 
+=========
+missing from OWN-PT:
+
+mandato: ok em http://wnpt.brlcloud.com/wn/synset?id=01140658-n
+
+eleição: ok em http://wnpt.brlcloud.com/wn/synset?id=00181781-n
+
+atribuição: maybe http://wnpt.brlcloud.com/wn/synset?id=00730247-n (ja temos atribuição em http://wnpt.brlcloud.com/wn/synset?id=13285176-n, mas não me parece ter o sentido de responsabilidades que tem nesse artigo)
+
+disciplinar: maybe http://wnpt.brlcloud.com/wn/synset?id=02466670-v (problema: não vai ser feita de fato uma lei)
+
+procedimento: suggested in http://wnpt.brlcloud.com/wn/synset?id=01023820-n
+
+vigência: suggested in http://wnpt.brlcloud.com/wn/synset?id=04809642-n
