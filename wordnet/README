@@ -1,0 +1,8 @@
+# -*- mode:org -*-
+to check if a sorted list of words (one per line) is in OWN-PT,
+download the latest tab-separated distribution as explained in [[https://github.com/own-pt/openWordnet-PT/tree/master/openMLWN][here]],
+then:
+- sort the wordnet data by synset:
+  : sort -k 3 -t '<tab>' wn-data-por.tab.txt > sorted-wn-data.txt
+- find which words are matched by a synset:
+  : join -t ' <tab>' -1 1 -2 3 mwes.txt sorted-wn-data.txt > result.txt
