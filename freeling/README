@@ -1,16 +1,17 @@
-
-Produzir TXT lei a partir XML (obtido com parser Bruno):
-
-xsltproc ../extract.xslt ../lei-8906.xml > lei-8906.txt
+# -*- mode:org -*-
+* Produzir TXT lei a partir XML (obtido com parser Bruno):
+: xsltproc ../extract.xslt ../lei-8906.xml > lei-8906.txt
 
 Editamos o arquivo txt colocando um cabeçalho para alinhar arquivos
 saida com os arquivos do diretório abaixo.
 
-Separação dos arquivos
+* Separação dos arquivos
+: split -p "---" lei-8906.txt art-
 
-split -p "---" lei-8906.txt art-
+* Rodar FREELING
+: for f in *.txt; do analyze --noflush -f pt.cfg < $f  > $(basename $f .txt).out ; done
 
-Rodar FREELING
-
-for f in *.txt; do analyze --noflush -f pt.cfg < $f  > $(basename $f .txt).out ; done
-
+* checar tokens sem sense
+Freeling não encontrou sense para tokens que deveriam ter, pois são
+adjetivos, substantivos, verbos, ou advérbios.
+:  for f in *.out; do grep -E '^[^ ]+ [^ ]+ [VNAR][^ ]+ [^ ]+ -' $f > missing-$f; done
