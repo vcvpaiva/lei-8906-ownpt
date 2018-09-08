@@ -5,7 +5,6 @@ Ação_rescisória
 Ação_trabalhista
 Administração_pública
 Agravo_de_instrumento
-Arma_de_fogo
 Atividade_econômica
 Auto_de_infração
 Câmara_dos_deputados
@@ -17,12 +16,10 @@ Crédito_tributário
 Danos_morais
 Defesa_do_consumidor
 Direito_privado
-Direitos_humanos
 Embargos_de_declaração
 Empresa_pública
 Execução_fiscal
 Fazenda_pública
-Habeas_corpus
 Homicídio_culposo
 Impacto_ambiental
 Inquérito_policial
@@ -34,23 +31,17 @@ Lei_ordinária
 Mandado_de_segurança
 Medida_cautelar
 Medida_provisória
-Meio_ambiente
 Ministério_público
 Normas_constitucionais
-Nota_promissória
-Ônus_da_prova
 Pessoa_jurídica
 Plano_de_saúde
-Poder_executivo
 Poder_judiciário
-Poder_legislativo
 Poder_público
 Prestação_de_serviços
 Prisão_em_flagrante
 Processo_administrativo
 Processo_civil
 Processo_do_trabalho
-Processo_judicial
 Processo_penal
 Projeto_de_lei
 Reclamação_trabalhista
@@ -58,11 +49,24 @@ Recurso_de_apelação
 Recurso_ordinário
 Regimento_interno
 Responsabilidade_civil
-São_paulo
 Serviço_público
-Servidor_público
 Sistema_jurídico
 Supremo_tribunal_federal
 Trânsito_em_julgado
 Tribunal_de_contas
-Tribunal_de_justiça
+=======
+MWEs above need to be added to OWN-PT
+removed from list:
+arma de fogo	03467984-n	lemma
+direitos humanos	05176846-n	lemma
+habeas corpus	05183453-n	lemma
+meio ambiente	08567235-n	lemma
+nota promissória	13398469-n	lemma
+ônus da prova	01130905-n	lemma
+poder executivo	08165455-n	lemma
+poder legislativo	08163273-n	lemma
+processo judicial	01182654-n	lemma
+servidor público	10372373-n	lemma
+tribunal de justiça	03649459-n	lemma
+ 
+as these are in OWN-PT already
