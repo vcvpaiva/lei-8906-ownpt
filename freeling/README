@@ -19,20 +19,24 @@ files:
 ** tokens
 number of tokens is the number of non-blank lines in =art-*.out= files:
 : grep -P '\S' art-*.out | wc -l
+uniques:
+: grep -h -P '\S' art-*.out | cut -f1-2 -d ' ' | sort -u | wc -l
+
 ** POS
 number of tokens with POS ={N,A,V,R}= in =art-*.out= files:
 : grep -E '^[^ ]+ [^ ]+ N' art-*.out | wc -l
+uniques:
+: grep -hE '^[^ ]+ [^ ]+ N' art-*.out | cut -f1-2 -d ' ' | sort -u | wc -l
 
-* checar tokens sem sense
+** checar tokens sem sense
 Freeling não encontrou sense para tokens que deveriam ter, pois são
 adjetivos, substantivos, verbos, ou advérbios.
-** in each article
-: for f in *.out; do grep -E '^[^ ]+ [^ ]+ [VNAR][^ ]+ [^ ]+ -' $f > missing-$f; done
-** total, no duplicates
-#+BEGIN_SRC sh
-for f in *.out; do grep -E '^[^ ]+ [^ ]+ [VNAR][^ ]+ [^ ]+ -' $f | cut -f1-2 -d ' ' >> all-missing-senses.txt ; done
-# count
-sort -u all-missing-senses.txt | wc -l
-# frequency
-sort all-missing-senses.txt | uniq -c | sort -nr
-#+END_SRC
+: grep -hE '^[^ ]+ [^ ]+ [VNAR][^ ]+ [^ ]+ -' art-*.out | cut -f1-2 -d ' ' | sort -u | wc -l
+
+| 81e23ada4e |     n | unique | unique, no-sense |
+|------------+-------+--------+------------------|
+| tokens     | 10327 |   2002 |              494 |
+| N          |  2267 |    859 |              164 |
+| A          |   631 |    304 |               61 |
+| V          |  1173 |    619 |               61 |
+| R          |   281 |     84 |               48 |
