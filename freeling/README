@@ -37,6 +37,10 @@ uniques:
 : grep -hE '^[^ ]+ [^ ]+ N' art-*.out | cut -f2-3 -d ' ' |  grep -oE '^[^ ]+ [^ ]' | sort -u | wc -l
 
 ** checar tokens sem sense
+
 Freeling não encontrou sense para tokens que deveriam ter, pois são
 adjetivos, substantivos, verbos, ou advérbios.
-: grep -hE '^[^ ]+ [^ ]+ [VNAR][^ ]+ [^ ]+ -' art-*.out | cut -f2-3 -d ' ' | grep -oE '^[^ ]+ [^ ]' | sort -u | wc -l
+
+: awk '$3 ~ /^[NAVR]/ && NF < 4 {print}' *.out | sort | uniq -c | sort -nr
+
+
