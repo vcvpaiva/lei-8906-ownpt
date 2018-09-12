@@ -40,7 +40,4 @@ uniques:
 
 Freeling não encontrou sense para tokens que deveriam ter, pois são
 adjetivos, substantivos, verbos, ou advérbios.
-
-: awk '$3 ~ /^[NAVR]/ && NF < 4 {print}' *.out | sort | uniq -c | sort -nr
-
-
+: awk '$3 ~ /^[NAVR]/ && NF < 4 {print $2,substr($3,1,1)}' art-*.out | sort | uniq -c | sort -nr

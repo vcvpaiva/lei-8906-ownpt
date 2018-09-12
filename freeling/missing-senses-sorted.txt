@@ -1,315 +1,267 @@
-  95 OAB oab NP00000 
-  71 Conselho_Seccional conselho_seccional NP00000 
-  56 quando quando RG 
-  37 Conselho_Federal conselho_federal NP00000 
-  26 art. art. NCFS000 
-  24 salvo salvo RG 
-  22 nº nº NCMS000 
-  22 Conselhos_Seccionais conselhos_seccionais NP00000 
-  20 direta direta NCFS000 
-  20 Subseções subseções NP00000 
-  20 Código_de_Ética código_de_ética NP00000 
-  18 unipessoal unipessoal AQ0CS00 
-  16 onde onde RG 
-  16 inclusive inclusive RG 
-  16 Tribunal_de_Ética tribunal_de_ética NP00000 
-  15 inciso inciso NCMS000 
-  15 Caixa_de_Assistência_de_os_Advogados caixa_de_assistência_de_os_advogados NP00000 
-  14 serviço_público serviço_público NCMS000 
-  10 sucumbência sucumbência NCFS000 
-  10 integrantes integrante AQ0CP00 
-  10 incisos inciso AQ0MP00 
-  10 der der VMN0000 
-  10 adotante adotante AQ0CS00 
-  10 II ii NP00000 
-  10 Administração_Pública administração_pública NP00000 
-   8 privativos privativo AQ0MP00 
-   8 incisos inciso NCMP000 
-   8 inciso inciso AQ0MS00 
-   8 fundacional fundacional AQ0CS00 
-   8 Provimentos provimentos NP00000 
-   8 III iii NP00000 
-   8 Conselho_Seccional_de_a_OAB conselho_seccional_de_a_oab NP00000 
-   6 inviolabilidade inviolabilidade NCFS000 
-   6 flagrante flagrante NCMS000 
-   6 findos findo AQ0MP00 
-   6 federativa federativo AQ0FS00 
-   6 ex ex AQ0CN00 
-   6 cartório cartório NCMS000 
-   6 arbitramento arbitramento NCMS000 
-   6 VII vii NP00000 
-   6 Ministério_Público ministério_público NP00000 
-   6 IV iv NP00000 
-   6 Exame_de_Ordem exame_de_ordem NP00000 
-   5 eleitos eleito NCMP000 
-   5 XIV xiv NP00000 
-   5 São são NP00000 
-   5 Ordem_de_os_Advogados_de_o_Brasil ordem_de_os_advogados_de_o_brasil NP00000 
-   4 É é NP00000 
-   4 preenchimento preenchimento NCMS000 
-   4 precatório precatório NCMS000 
-   4 postulação postulação NCFS000 
-   4 notariais notarial AQ0CP00 
-   4 menos menos RG 
-   4 licenciamento licenciamento NCMS000 
-   4 lactante lactante AQ0CS00 
-   4 julgador julgador AQ0MS00 
-   4 julgado julgado NCMS000 
-   4 juizados_especiais juizado_especial NCMP000 
-   4 interestadual interestadual AQ0CS00 
-   4 inconstitucionalidade inconstitucionalidade NCFS000 
-   4 habilitação habilitação NCFS000 
-   4 gestante gestante AQ0CS00 
-   4 filial filial NCFS000 
-   4 exclusivamente exclusivomente RG 
-   4 enquanto enquanto RG 
-   4 condenatória condenatório AQ0FS00 
-   4 concessionárias concessionário AQ0FP00 
-   4 certidão certidão NCFS000 
-   4 cartórios cartório NCMP000 
-   4 averiguado averiguar VMP00SM 
-   4 averbado averbar VMP00SM 
-   4 apuração apuração NCFS000 
-   4 a_preceito a_preceito RG 
-   4 XXI xxi NP00000 
-   4 VI vi NP00000 
-   4 Seccionais seccionais NP00000 
-   4 Quando quando RG 
-   4 Presidente_de_o_Conselho_Seccional presidente_de_o_conselho_seccional NP00000 
-   4 Presidente_de_o_Conselho_Federal presidente_de_o_conselho_federal NP00000 
-   4 Diretoria_de_o_Conselho_Federal diretoria_de_o_conselho_federal NP00000 
-   4 Decreto-Lei decreto-lei NP00000 
-   4 Conselheiros_Federais conselheiros_federais NP00000 
-   4 Caixas_de_Assistência_de_os_Advogados caixas_de_assistência_de_os_advogados NP00000 
-   3 inobservância inobservância NCFS000 
-   3 Salvo salvo RG 
-   3 Para para NP00000 
-   3 Os os NP00000 
-   3 O_Conselho_Seccional o_conselho_seccional NP00000 
-   3 Conselhos_Federal conselhos_federal NP00000 
-   2 íntegra íntegra NCFS000 
-   2 Órgãos_de_a_Administração_Pública órgãos_de_a_administração_pública NP00000 
-   2 violar violar NCMS000 
-   2 urbanidade urbanidade NCFS000 
-   2 trienalmente trienalmente RG 
-   2 telefônica telefônica AQ0FS00 
-   2 sócio sócio AQ0MS00 
-   2 suspensivo suspensivo AQ0MS00 
-   2 suplente suplente AQ0CS00 
-   2 substabelecimento substabelecimento NCMS000 
-   2 substabelecido substabelecer VMP00SM 
-   2 subsidiária subsidiário AQ0FS00 
-   2 subsidiariamente subsidiariamente RG 
-   2 solidariamente solidariamente RG 
-   2 seus seu AP0MP3P 
-   2 servidor servidor AQ0MS00 
-   2 serventuários serventuário NCMP000 
-   2 senão senão RG 
-   2 seguridade seguridade NCFS000 
-   2 seccional seccional AQ0CS00 
-   2 rigorosamente rigorosomente RG 
-   2 revel revel AQ0CS00 
-   2 revalidado revalidar VMP00SM 
-   2 respectivamente respectivomente RG 
-   2 reservadamente reservadomente RG 
-   2 requisitos requisito AQ0MP00 
-   2 referendado referendar VMP00SM 
-   2 recorrível recorrível AQ0CS00 
-   2 reconduzido reconduzir VMP00SM 
-   2 punibilidade punibilidade NCFS000 
-   2 protocolizada protocolizar VMP00SF 
-   2 prorrogável prorrogável AQ0CS00 
-   2 prorrogado prorrogar VMP00SM 
-   2 privativo privativo AQ0MS00 
-   2 privativas privativo AQ0FP00 
-   2 privativamente privativomente RG 
-   2 privativa privativo AQ0FS00 
-   2 preventivamente preventivomente RG 
-   2 presta presto AQ0FS00 
-   2 preliminar preliminar NCMS000 
-   2 policial policial AQ0CS00 
-   2 pertencentes pertencente AQ0CP00 
-   2 permissionárias permissionárias AQ0FP00 
-   2 patrona patrona NCFS000 
-   2 passivamente passivomente RG 
-   2 partícipes partícipe NCCP000 
-   2 parafiscais parafiscal AQ0CP00 
-   2 paraestatais paraestatais AQ0CP00 
-   2 originariamente originariamente RG 
-   2 optantes optante NCCP000 
-   2 oneração oneração NCFS000 
-   2 omissos omisso AQ0MP00 
-   2 ofendido ofendido NCMS000 
-   2 objetivando objetivando VMG0000 
-   2 o_máximo o_máximo NCMS000 
-   2 nutum nutum NCMS000 
-   2 noturnas noturnas NCFP000 
-   2 múnus múnus NCMN000 
-   2 motivada motivado AQ0FS00 
-   2 merecedor merecedor NCMS000 
-   2 locupletar locupletar VMN03S0 
-   2 liminar liminar AQ0CS00 
-   2 lide lide NCFS000 
-   2 lavratura lavratura NCFS000 
-   2 lactante lactante NCFS000 
-   2 justo justo NCMS000 
-   2 juridicamente juridicamente RG 
-   2 isenta isentar VMIP3S0 
-   2 irrecorrível irrecorrível AQ0CS00 
-   2 investigatórios investigatórios AQ0MP00 
-   2 interposição interposição NCFS000 
-   2 intermédio intermédio NCMS000 
-   2 injustificadamente injustificadomente RG 
-   2 inidôneo inidôneo AQ0MS00 
-   2 inidoneidade inidoneidade NCFS000 
-   2 inferiores inferior NCCP000 
-   2 indiciados indiciar VMP00PM 
-   2 indeferimento indeferimento NCMS000 
-   2 incomunicáveis incomunicável AQ0CP00 
-   2 incidente incidente AQ0CS00 
-   2 inafiançável inafiançável AQ0CS00 
-   2 impopularidade impopularidade NCFS000 
-   2 impetração impetração NCFS000 
-   2 imediato imediato NCMS000 
-   2 imediatamente imediatomente RG 
-   2 ilimitadamente ilimitadomente RG 
-   2 habitualidade habitualidade NCFS000 
-   2 gravídico gravídico AQ0MS00 
-   2 gestante gestante NCFS000 
-   2 fiscalização fiscalização NCFS000 
-   2 falar falar NCMS000 
-   2 extrajudicialmente extrajudicialmente RG 
-   2 exonerável exonerável AQ0CS00 
-   2 exceto exceto AQ0MS00 
-   2 empregados empregado AQ0MP00 
-   2 eleita eleito NCFS000 
-   2 efetivamente efetivomente RG 
-   2 décuplo décuplo AO0MS00 
-   2 doutrinária doutrinário AQ0FS00 
-   2 dispor dispor NCMS000 
-   2 disponibilização disponibilização NCFS000 
-   2 disciplinarmente disciplinarmente RG 
-   2 devidamente devidomente RG 
-   2 descumprimento descumprimento NCMS000 
-   2 desagravo desagravo NCMS000 
-   2 derivados derivado AQ0MP00 
-   2 deliberativo deliberativo AQ0MS00 
-   2 dativo dativo AQ0MS00 
-   2 cumulativamente cumulativomente RG 
-   2 credenciamento credenciamento NCMS000 
-   2 credenciados credenciado AQ0MP00 
-   2 credenciada credenciado AQ0FS00 
-   2 constatação constatação NCFS000 
-   2 consecutivas consecutiva NCFP000 
-   2 condignas condigno AQ0FP00 
-   2 conclusos concluso AQ0MP00 
-   2 coligado coligar VMP00SM 
-   2 cobrança cobrança NCFS000 
-   2 co-autores co-autores NCMP000 
-   2 classistas classista NCCP000 
-   2 cancelos cancelo NCMP000 
-   2 autônomo autônomo RG 
-   2 autônomas autônomas NCMP000 
-   2 ativa ativa NCFS000 
-   2 atenuantes atenuante NCCP000 
-   2 assistentes assistente AQ0CP00 
-   2 arts. arts. RG 
-   2 arquivamento arquivamento NCMS000 
-   2 aproveitamento aproveitamento NCMS000 
-   2 apoiamento apoiamento NCMS000 
-   2 ad ad AQ0CN00 
-   2 acrescidas acrescer VMP00PF 
-   2 abusivamente abusivomente RG 
-   2 abrangência abrangência NCFS000 
-   2 XXVI_a_XXVIII xxvi_a_xxviii NP00000 
-   2 XXIX xxix NP00000 
-   2 XXIV xxiv NP00000 
-   2 XXIII xxiii NP00000 
-   2 XVII_a_XXV xvii_a_xxv NP00000 
-   2 XVI xvi NP00000 
-   2 XV xv NP00000 
-   2 Título_II título_ii NP00000 
-   2 Todos todos NP00000 
-   2 Territórios territórios NP00000 
-   2 Subseções_de_a_OAB subseções_de_a_oab NP00000 
-   2 Sociedade_Individual_de_Advocacia sociedade_individual_de_advocacia NP00000 
-   2 Secretário-Geral_Adjunto secretário-geral_adjunto NP00000 
-   2 Secretário-Geral secretário-geral NP00000 
-   2 República_Federativa_de_o_Brasil república_federativa_de_o_brasil NP00000 
-   2 Regulamento_Geral_de_a_OAB regulamento_geral_de_a_oab NP00000 
-   2 Regulamento_Geral regulamento_geral NP00000 
-   2 Prática_Forense prática_forense NP00000 
-   2 Provimento_de_o_Conselho_Federal provimento_de_o_conselho_federal NP00000 
-   2 Procuradorias procuradorias NP00000 
-   2 Procuradoria_de_a_Fazenda_Nacional procuradoria_de_a_fazenda_nacional NP00000 
-   2 Presidentes_de_os_Conselhos_de_a_OAB presidentes_de_os_conselhos_de_a_oab NP00000 
-   2 Presidentes_de_as_Subseções presidentes_de_as_subseções NP00000 
-   2 Presidente_de_o_Instituto_de_os_Advogados presidente_de_o_instituto_de_os_advogados NP00000 
-   2 Presidente_de_o_Conselho presidente_de_o_conselho NP00000 
-   2 Presidente_de_a_Caixa_de_Assistência_de_os_Advogados presidente_de_a_caixa_de_assistência_de_os_advogados NP00000 
-   2 Prescreve prescreve NP00000 
-   2 Poderes_Judiciário poderes_judiciário NP00000 
-   2 Organização_Judiciária organização_judiciária NP00000 
-   2 O_Conselho_Federal o_conselho_federal NP00000 
-   2 Municípios municípios NP00000 
-   2 Mesa_de_o_Poder_Legislativo mesa_de_o_poder_legislativo NP00000 
-   2 Legislativo legislativo NP00000 
-   2 I_a_XVI i_a_xvi NP00000 
-   2 Fazenda_Pública fazenda_pública NP00000 
-   2 Exame_de_a_Ordem exame_de_a_ordem NP00000 
-   2 Estados-membros estados-membros NP00000 
-   2 Estado_Maior estado_maior NP00000 
-   2 Em em NP00000 
-   2 Diário_Eletrônico_de_a_Ordem_de_os_Advogados_de_o_Brasil diário_eletrônico_de_a_ordem_de_os_advogados_de_o_brasil NP00000 
-   2 Disciplina_de_o_Conselho disciplina_de_o_conselho NP00000 
-   2 Diretoria_de_a_Caixa_de_Assistência_de_os_Advogados diretoria_de_a_caixa_de_assistência_de_os_advogados NP00000 
-   2 Defensores_Gerais defensores_gerais NP00000 
-   2 Código_de_Processo_Civil código_de_processo_civil NP00000 
-   2 Consultorias_Jurídicas_de_os_Estados consultorias_jurídicas_de_os_estados NP00000 
-   2 Consolidação_de_as_Leis_de_o_Trabalho consolidação_de_as_leis_de_o_trabalho NP00000 
-   2 Conselhos_de_a_OAB conselhos_de_a_oab NP00000 
-   2 Conselhos conselhos NP00000 
-   2 Conselho_de_a_Subseção conselho_de_a_subseção NP00000 
-   2 Conselho_Federal_de_a_OAB conselho_federal_de_a_oab NP00000 
-   2 Conferências conferências NP00000 
-   2 Capítulo_VI_de_o_Título_II capítulo_vi_de_o_título_ii NP00000 
-   2 Cabe_a_o_Tribunal_de_Ética cabe_a_o_tribunal_de_ética NP00000 
-   2 Cabe_a_o_Conselho_Seccional cabe_a_o_conselho_seccional NP00000 
-   2 Cabe_a_o_Conselho_Federal_de_a_OAB cabe_a_o_conselho_federal_de_a_oab NP00000 
-   2 Cabe_a_a_Caixa cabe_a_a_caixa NP00000 
-   2 Cabe cabe NP00000 
-   2 Ato_de_as_Disposições_Constitucionais_Transitórias ato_de_as_disposições_constitucionais_transitórias NP00000 
-   2 Advogados_Gerais advogados_gerais NP00000 
-   2 Advocacia-Geral_de_a_União advocacia-geral_de_a_união NP00000 
-   1 presidentes presidente AQ0CP00 
-   1 investigativo investigativo AQ0MS00 
-   1 bla bla NCMS000 
-   1 Salvo salvo NP00000 
-   1 Revogam-se revogam-se NP00000 
-   1 Recebida recebida NP00000 
-   1 Procuradores_Gerais procuradores_gerais NP00000 
-   1 Presidentes_de_os_Conselhos presidentes_de_os_conselhos NP00000 
-   1 Os_Procuradores_Gerais os_procuradores_gerais NP00000 
-   1 Os_Presidentes_de_os_Conselhos os_presidentes_de_os_conselhos NP00000 
-   1 Os_Conselhos_Federal os_conselhos_federal NP00000 
-   1 O_Instituto_de_os_Advogados_Brasileiros o_instituto_de_os_advogados_brasileiros NP00000 
-   1 Licencia-se licencia-se NP00000 
-   1 Instituto_de_os_Advogados_Brasileiros instituto_de_os_advogados_brasileiros NP00000 
-   1 Fica fica NP00000 
-   1 Extingue-se extingue-se NP00000 
-   1 Exercem exercem NP00000 
-   1 Esta esta NP00000 
-   1 Constitui constitui NP00000 
-   1 Consideram-se consideram-se NP00000 
-   1 Compete_a_o_Conselho_Federal compete_a_o_conselho_federal NP00000 
-   1 Compete_a_a_Subseção compete_a_a_subseção NP00000 
-   1 Compete_a_a_OAB compete_a_a_oab NP00000 
-   1 Compete compete NP00000 
-   1 Cancela-se cancela-se NP00000 
-   1 As as NP00000 
-   1 Aplicam-se aplicam-se NP00000 
-   1 Além_de além_de NP00000 
-   1 A_Subseção a_subseção NP00000 
-   1 A_Ordem_de_os_Advogados_de_o_Brasil a_ordem_de_os_advogados_de_o_brasil NP00000 
-   1 A_Caixa_de_Assistência_de_os_Advogados a_caixa_de_assistência_de_os_advogados NP00000 
-   1 A._São a._são NP00000 
+     48 oab N
+     37 conselho_seccional N
+     30 quando R
+     20 conselho_federal N
+     14 salvo R
+     13 art. N
+     11 nº N
+     11 inciso N
+     11 conselhos_seccionais N
+     10 subseções N
+     10 direta N
+     10 código_de_ética N
+      9 unipessoal A
+      9 inciso A
+      8 tribunal_de_ética N
+      8 onde R
+      8 inclusive R
+      8 caixa_de_assistência_de_os_advogados N
+      7 serviço_público N
+      7 privativo A
+      5 sucumbência N
+      5 integrante A
+      5 ii N
+      5 der V
+      5 cartório N
+      5 adotante A
+      5 administração_pública N
+      4 provimentos N
+      4 iii N
+      4 fundacional A
+      4 conselho_seccional_de_a_oab N
+      3 vii N
+      3 ordem_de_os_advogados_de_o_brasil N
+      3 ministério_público N
+      3 iv N
+      3 inviolabilidade N
+      3 flagrante N
+      3 findo A
+      3 federativo A
+      3 exame_de_ordem N
+      3 ex A
+      3 eleito N
+      3 arbitramento N
+      2 xxi N
+      2 xiv N
+      2 vi N
+      2 seccionais N
+      2 presidente_de_o_conselho_seccional N
+      2 presidente_de_o_conselho_federal N
+      2 preenchimento N
+      2 precatório N
+      2 postulação N
+      2 notarial A
+      2 menos R
+      2 licenciamento N
+      2 lactante A
+      2 julgador A
+      2 julgado N
+      2 juizado_especial N
+      2 interestadual A
+      2 inconstitucionalidade N
+      2 habilitação N
+      2 gestante A
+      2 filial N
+      2 exclusivomente R
+      2 enquanto R
+      2 diretoria_de_o_conselho_federal N
+      2 decreto-lei N
+      2 credenciado A
+      2 conselhos_federal N
+      2 conselheiros_federais N
+      2 condenatório A
+      2 concessionário A
+      2 certidão N
+      2 caixas_de_assistência_de_os_advogados N
+      2 averiguar V
+      2 averbar V
+      2 apuração N
+      2 a_preceito R
+      1 xxvi_a_xxviii N
+      1 xxix N
+      1 xxiv N
+      1 xxiii N
+      1 xv N
+      1 xvi N
+      1 xvii_a_xxv N
+      1 violar N
+      1 urbanidade N
+      1 trienalmente R
+      1 título_ii N
+      1 territórios N
+      1 telefônica A
+      1 suspensivo A
+      1 suplente A
+      1 substabelecimento N
+      1 substabelecer V
+      1 subsidiário A
+      1 subsidiariamente R
+      1 subseções_de_a_oab N
+      1 solidariamente R
+      1 sócio A
+      1 sociedade_individual_de_advocacia N
+      1 seu A
+      1 servidor A
+      1 serventuário N
+      1 senão R
+      1 seguridade N
+      1 secretário-geral N
+      1 secretário-geral_adjunto N
+      1 seccional A
+      1 rigorosomente R
+      1 revel A
+      1 revalidar V
+      1 respectivomente R
+      1 reservadomente R
+      1 requisito A
+      1 república_federativa_de_o_brasil N
+      1 regulamento_geral N
+      1 regulamento_geral_de_a_oab N
+      1 referendar V
+      1 recorrível A
+      1 reconduzir V
+      1 punibilidade N
+      1 provimento_de_o_conselho_federal N
+      1 protocolizar V
+      1 prorrogável A
+      1 prorrogar V
+      1 procuradorias N
+      1 procuradoria_de_a_fazenda_nacional N
+      1 procuradores_gerais N
+      1 privativomente R
+      1 preventivomente R
+      1 presto A
+      1 presidentes_de_os_conselhos N
+      1 presidentes_de_os_conselhos_de_a_oab N
+      1 presidentes_de_as_subseções N
+      1 presidente_de_o_instituto_de_os_advogados N
+      1 presidente_de_o_conselho N
+      1 presidente_de_a_caixa_de_assistência_de_os_advogados N
+      1 preliminar N
+      1 prática_forense N
+      1 policial A
+      1 poderes_judiciário N
+      1 pertencente A
+      1 permissionárias A
+      1 patrona N
+      1 passivomente R
+      1 partícipe N
+      1 parafiscal A
+      1 paraestatais A
+      1 originariamente R
+      1 órgãos_de_a_administração_pública N
+      1 organização_judiciária N
+      1 optante N
+      1 oneração N
+      1 omisso A
+      1 o_máximo N
+      1 ofendido N
+      1 objetivando V
+      1 nutum N
+      1 noturnas N
+      1 múnus N
+      1 municípios N
+      1 motivado A
+      1 mesa_de_o_poder_legislativo N
+      1 merecedor N
+      1 locupletar V
+      1 liminar A
+      1 lide N
+      1 legislativo N
+      1 lavratura N
+      1 lactante N
+      1 justo N
+      1 juridicamente R
+      1 isentar V
+      1 irrecorrível A
+      1 investigatórios A
+      1 interposição N
+      1 intermédio N
+      1 íntegra N
+      1 instituto_de_os_advogados_brasileiros N
+      1 inobservância N
+      1 injustificadomente R
+      1 inidôneo A
+      1 inidoneidade N
+      1 inferior N
+      1 indiciar V
+      1 indeferimento N
+      1 incomunicável A
+      1 incidente A
+      1 inafiançável A
+      1 impopularidade N
+      1 impetração N
+      1 imediato N
+      1 imediatomente R
+      1 ilimitadomente R
+      1 i_a_xvi N
+      1 habitualidade N
+      1 gravídico A
+      1 gestante N
+      1 fiscalização N
+      1 fazenda_pública N
+      1 falar N
+      1 extrajudicialmente R
+      1 exonerável A
+      1 exceto A
+      1 exame_de_a_ordem N
+      1 estados-membros N
+      1 estado_maior N
+      1 é N
+      1 empregado A
+      1 efetivomente R
+      1 doutrinário A
+      1 dispor N
+      1 disponibilização N
+      1 disciplinarmente R
+      1 disciplina_de_o_conselho N
+      1 diretoria_de_a_caixa_de_assistência_de_os_advogados N
+      1 diário_eletrônico_de_a_ordem_de_os_advogados_de_o_brasil N
+      1 devidomente R
+      1 descumprimento N
+      1 desagravo N
+      1 derivado A
+      1 deliberativo A
+      1 defensores_gerais N
+      1 décuplo A
+      1 dativo A
+      1 cumulativomente R
+      1 credenciamento N
+      1 consultorias_jurídicas_de_os_estados N
+      1 constatação N
+      1 consolidação_de_as_leis_de_o_trabalho N
+      1 conselhos N
+      1 conselhos_de_a_oab N
+      1 conselho_federal_de_a_oab N
+      1 conselho_de_a_subseção N
+      1 consecutiva N
+      1 conferências N
+      1 condigno A
+      1 concluso A
+      1 coligar V
+      1 código_de_processo_civil N
+      1 cobrança N
+      1 co-autores N
+      1 classista N
+      1 capítulo_vi_de_o_título_ii N
+      1 cancelo N
+      1 cabe_a_o_tribunal_de_ética N
+      1 cabe_a_o_conselho_seccional N
+      1 cabe_a_o_conselho_federal_de_a_oab N
+      1 cabe_a_a_caixa N
+      1 autônomo R
+      1 autônomas N
+      1 ato_de_as_disposições_constitucionais_transitórias N
+      1 ativa N
+      1 atenuante N
+      1 assistente A
+      1 arts. R
+      1 arquivamento N
+      1 aproveitamento N
+      1 apoiamento N
+      1 advogados_gerais N
+      1 advocacia-geral_de_a_união N
+      1 ad A
+      1 acrescer V
+      1 abusivomente R
+      1 abrangência N
