@@ -1,5 +1,5 @@
-
-    Ordem_dos_Advogados_do_Brasil
-    Advocacia-Geral_da_União
-    Procuradoria_da_Fazenda_Nacional (maybe 2 mwes?)
-    Consultorias_Jurídicas_dos_Estado
+Ordem dos Advogados do Brasil, OAB | instance-of | http://wnpt.brlcloud.com/wn/synset?id=08112402-n
+Advocacia-Geral da União | 
+Procuradoria da Fazenda Nacional	
+Fazenda Nacional | hyponym | http://wnpt.brlcloud.com/wn/synset?id=08139795-n
+Consultorias Jurídicas dos Estado
