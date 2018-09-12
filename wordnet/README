@@ -1,8 +1,22 @@
 # -*- mode:org -*-
-to check if a sorted list of words (one per line) is in OWN-PT,
-download the latest tab-separated distribution as explained in [[https://github.com/own-pt/openWordnet-PT/tree/master/openMLWN][here]],
-then:
-- sort the wordnet data by synset:
-  : sort -k 3 -t '<tab>' wn-data-por.tab.txt > sorted-wn-data.txt
-- find which words are matched by a synset:
-  : join -t ' <tab>' -1 1 -2 3 mwes.txt sorted-wn-data.txt > result.txt
+
+first download the latest tab-separated distribution as explained in
+[[https://github.com/own-pt/openWordnet-PT/tree/master/openMLWN][here]].
+
+sort the wordnet data by lemma:
+: sort -k 3 -t '	' wn-data-por.tab.txt > sorted-wn-data.txt
+
+* check if in OWN-PT
+to check if a sorted list of words (one per line) is in OWN-PT, find
+which words are matched by a synset:
+: join -t '	' -1 1 -2 3 mwes.txt sorted-wn-data.txt > result.txt
+
+* check which lemmas are not in OWN-PT
+- use tr to downcase the files:
+  : tr '[:upper:]' '[:lower:]'  < file > result
+- sed to change =_= to = = (if freeling output)
+  : sed -i -e 's/_/ /g' file
+- note that we do not handle the decontractions made by freeling (do
+  -> de o)
+- join:
+  : join -t '	' -v 1 -1 1 -2 3 lemmas-not-found-by-freeling.txt sorted-wn-data.txt > missing-lemmas.txt
