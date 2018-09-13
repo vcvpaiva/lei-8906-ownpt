@@ -50,13 +50,13 @@
 8	de	de	ADP	PRP|@N<	_	9	case	_	_
 9	advocacia	advocacia	NOUN	<np-idf>|N|F|S|@P<	Gender=Fem|Number=Sing	6	nmod	_	_
 10	a	a	ADP	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	case	_	_
-11	impetração	impetração	NOUN	<np-def>|N|F|S|@<ACC	Gender=Fem|Number=Sing	9	nmod	_	_
+11	impetração	impetração	NOUN	<np-def>|N|F|S|@<ACC	Gender=Fem|Number=Sing	3	csubj	_	_
 12	de	de	ADP	PRP|@N<	_	13	case	_	_
 13	habeas	habea	NOUN	<np-idf>|N|F|P|@P<	Gender=Fem|Number=Plur	11	nmod	_	_
 14	corpus	corpu	ADJ	<np-idf>|N|M|P|@P<	Gender=Masc|Number=Plur	13	amod	_	_
 15	em	em	ADP	PRP|@N<	_	17	case	_	_
 16	qualquer	qualquer	DET	<quant>|DET|F|S|@>N	Gender=Fem|Number=Sing|PronType=Ind	17	det	_	_
-17	instância	instância	NOUN	<np-idf>|N|F|S|@P<	Gender=Fem|Number=Sing	3	obl	_	_
+17	instância	instância	NOUN	<np-idf>|N|F|S|@P<	Gender=Fem|Number=Sing	11	nmod	_	_
 18	ou	ou	CCONJ	KC|@CO	_	19	cc	_	_
 19	tribunal	tribunal	NOUN	<cjt>|<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	17	conj	_	SpaceAfter=No
 20	.	.	PUNCT	PU|@PU	_	3	punct	_	SpaceAfter=No
