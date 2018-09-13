@@ -54,9 +54,9 @@ Art. 7. São direitos do advogado: I - exercer, com liberdade, a profissão em t
 
 § 5. No caso de ofensa a inscrito na OAB, no exercício da profissão ou de cargo ou função de órgão da OAB, o conselho competente deve promover o desagravo público do ofendido, sem prejuízo da responsabilidade criminal em que incorrer o infrator.
 
-§ 6o Presentes indícios de autoria e materialidade da prática de crime por parte de advogado, a autoridade judiciária competente poderá decretar a quebra da inviolabilidade de que trata o inciso II do caput deste artigo, em decisão motivada, expedindo mandado de busca e apreensão, específico e pormenorizado, a ser cumprido na presença de representante da OAB, sendo, em qualquer hipótese, vedada a utilização dos documentos, das mídias e dos objetos pertencentes a clientes do advogado averiguado, bem como dos demais instrumentos de trabalho que contenham informações sobre clientes.
+§ 6. Presentes indícios de autoria e materialidade da prática de crime por parte de advogado, a autoridade judiciária competente poderá decretar a quebra da inviolabilidade de que trata o inciso II do caput deste artigo, em decisão motivada, expedindo mandado de busca e apreensão, específico e pormenorizado, a ser cumprido na presença de representante da OAB, sendo, em qualquer hipótese, vedada a utilização dos documentos, das mídias e dos objetos pertencentes a clientes do advogado averiguado, bem como dos demais instrumentos de trabalho que contenham informações sobre clientes.
 
-§ 7o A ressalva constante do § 6o deste artigo não se estende a clientes do advogado averiguado que estejam sendo formalmente investigados como seus partícipes ou co-autores pela prática do mesmo crime que deu causa à quebra da inviolabilidade.
+§ 7. A ressalva constante do § 6o deste artigo não se estende a clientes do advogado averiguado que estejam sendo formalmente investigados como seus partícipes ou co-autores pela prática do mesmo crime que deu causa à quebra da inviolabilidade.
 
 § 10. Nos autos sujeitos a sigilo, deve o advogado apresentar procuração para o exercício dos direitos de que trata o inciso XIV.
 
@@ -66,11 +66,11 @@ Art. 7. São direitos do advogado: I - exercer, com liberdade, a profissão em t
 
 Art. 7o-A. São direitos da advogada: I - gestante: a) entrada em tribunais sem ser submetida a detectores de metais e aparelhos de raios X; b) reserva de vaga em garagens dos fóruns dos tribunais; II - lactante, adotante ou que der à luz, acesso a creche, onde houver, ou a local adequado ao atendimento das necessidades do bebê; III - gestante, lactante, adotante ou que der à luz, preferência na ordem das sustentações orais e das audiências a serem realizadas a cada dia, mediante comprovação de sua condição; IV - adotante ou que der à luz, suspensão de prazos processuais quando for a única patrona da causa, desde que haja notificação por escrito ao cliente.
 
-§ 1o Os direitos previstos à advogada gestante ou lactante aplicam-se enquanto perdurar, respectivamente, o estado gravídico ou o período de amamentação.
+§ 1. Os direitos previstos à advogada gestante ou lactante aplicam-se enquanto perdurar, respectivamente, o estado gravídico ou o período de amamentação.
 
-§ 2o Os direitos assegurados nos incisos II e III deste artigo à advogada adotante ou que der à luz serão concedidos pelo prazo previsto no art. 392 do Decreto-Lei no 5.452, de 1o de maio de 1943 (Consolidação das Leis do Trabalho)
+§ 2. Os direitos assegurados nos incisos II e III deste artigo à advogada adotante ou que der à luz serão concedidos pelo prazo previsto no art. 392 do Decreto-Lei no 5.452, de 1o de maio de 1943 (Consolidação das Leis do Trabalho)
 
-§ 3o O direito assegurado no inciso IV deste artigo à advogada adotante ou que der à luz será concedido pelo prazo previsto no § 6o do art. 313 da Lei no 13.105, de 16 de março de 2015 (Código de Processo Civil).
+§ 3. O direito assegurado no inciso IV deste artigo à advogada adotante ou que der à luz será concedido pelo prazo previsto no § 6o do art. 313 da Lei no 13.105, de 16 de março de 2015 (Código de Processo Civil).
 
 CAPÍTULO III. Da Inscrição
 
@@ -334,7 +334,7 @@ Art. 53. O Conselho Federal tem sua estrutura e funcionamento definidos no Regul
 
 § 2. O voto é tomado por delegação, e não pode ser exercido nas matérias de interesse da unidade que represente.
 
-§ 3o Na eleição para a escolha da Diretoria do Conselho Federal, cada membro da delegação terá direito a 1 (um) voto, vedado aos membros honorários vitalícios.
+§ 3. Na eleição para a escolha da Diretoria do Conselho Federal, cada membro da delegação terá direito a 1 (um) voto, vedado aos membros honorários vitalícios.
 
 Art. 54. Compete ao Conselho Federal: I - dar cumprimento efetivo às finalidades da OAB; II - representar, em juízo ou fora dele, os interesses coletivos ou individuais dos advogados; III - velar pela dignidade, independência, prerrogativas e valorização da advocacia; IV - representar, com exclusividade, os advogados brasileiros nos órgãos e eventos internacionais da advocacia; V - editar e alterar o Regulamento Geral, o Código de Ética e Disciplina, e os Provimentos que julgar necessários; VI - adotar medidas para assegurar o regular funcionamento dos Conselhos Seccionais; VII - intervir nos Conselhos Seccionais, onde e quando constatar grave violação desta lei ou do regulamento geral; VIII - cassar ou modificar, de ofício ou mediante representação, qualquer ato, de órgão ou autoridade da OAB, contrário a esta lei, ao regulamento geral, ao Código de Ética e Disciplina, e aos Provimentos, ouvida a autoridade ou o órgão em causa; IX - julgar, em grau de recurso, as questões decididas pelos Conselhos Seccionais, nos casos previstos neste estatuto e no regulamento geral; X - dispor sobre a identificação dos inscritos na OAB e sobre os respectivos símbolos privativos; XI - apreciar o relatório anual e deliberar sobre o balanço e as contas de sua diretoria; XII - homologar ou mandar suprir relatório anual, o balanço e as contas dos Conselhos Seccionais; XIII - elaborar as listas constitucionalmente previstas, para o preenchimento dos cargos nos tribunais judiciários de âmbito nacional ou interestadual, com advogados que estejam em pleno exercício da profissão, vedada a inclusão de nome de membro do próprio Conselho ou de outro órgão da OAB; XIV - ajuizar ação direta de inconstitucionalidade de normas legais e atos normativos, ação civil pública, mandado de segurança coletivo, mandado de injunção e demais ações cuja legitimação lhe seja outorgada por lei; XV - colaborar com o aperfeiçoamento dos cursos jurídicos, e opinar, previamente, nos pedidos apresentados aos órgãos competentes para criação, reconhecimento ou credenciamento desses cursos; XVI - autorizar, pela maioria absoluta das delegações, a oneração ou alienação de seus bens imóveis; XVII - participar de concursos públicos, nos casos previstos na Constituição e na lei, em todas as suas fases, quando tiverem abrangência nacional ou interestadual; XVIII - resolver os casos omissos neste estatuto.
 

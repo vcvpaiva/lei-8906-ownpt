@@ -1,9 +1,9 @@
-ministério público
-direitos humanos
-tribunal de justiça
-administração pública
-pessoa jurídica
-supremo tribunal  federal
+ministério público =
+direitos humanos =
+tribunal de justiça =
+administração pública = 
+pessoa jurídica =
+supremo tribunal federal = 
 prestação de serviços
 ação penal 
 processo disciplinar
@@ -57,7 +57,7 @@ justiça federal
 recurso de apelação 
 defesa do consumidor
 habeas corpus
-normas estatutárias
+normas estatutárias | norma estatutária
 prazo legal
 autorização judicial
 comissão eleitoral
