@@ -1,7 +1,7 @@
-ministério público =
-direitos humanos =
-tribunal de justiça =
-administração pública = 
+ministério público	nc	conv	http://wnpt.brlcloud.com/wn/synset?id=10484858-n
+direitos humanos 	c	conv	http://wnpt.brlcloud.com/wn/synset?id=05176846-n
+tribunal de justiça	c	conv	http://wnpt.brlcloud.com/wn/synset?id=08329453-n
+administração pública	c	conv	http://wnpt.brlcloud.com/wn/synset?id=01124794-n
 pessoa jurídica =
 supremo tribunal federal = 
 prestação de serviços
