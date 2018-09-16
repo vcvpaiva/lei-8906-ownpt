@@ -33,7 +33,10 @@ o o DA0MS0
 Conselho_Federal conselho_federal NP00000 
 . . Fp 
 
-Cabe_a_o_Tribunal_de_Ética cabe_a_o_tribunal_de_ética NP00000 
+Cabe caber VMIP3S0 00050652-v:0/02735753-v:0
+a a SP 
+o o DA0MS0 
+Tribunal_de_Ética tribunal_de_ética NP00000 
 e e CC 
 Disciplina disciplina NP00000 00893836-n:0/01132864-n:0/04881623-n:0/05662876-n:0/05726596-n:0/05996646-n:0
 , , Fc 

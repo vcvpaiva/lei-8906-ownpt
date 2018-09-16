@@ -1,15 +1,21 @@
 # -*- mode:org -*-
-* Produzir TXT lei a partir XML (obtido com parser Bruno):
+* produzir TXT lei a partir XML (obtido com parser Bruno):
+
 : xsltproc ../extract.xslt ../lei-8906.xml > lei-8906.txt
 
 Editamos o arquivo txt colocando um cabeçalho para alinhar arquivos
 saida com os arquivos do diretório abaixo.
 
-* Separação dos arquivos
+* separação dos arquivos
+
 : split -p "---" lei-8906.txt art-
 
-* Rodar FREELING
-: for f in *.txt; do analyze --noflush -f pt.cfg < $f  > $(basename $f .txt).out ; done
+* rodar FREELING
+
+#+BEGIN_SRC bash
+DIR=/work/lei-8906-ownpt/freeling/ 
+for f in $DIR/*.txt; do python3 sample.py  < $f > $DIR/$(basename $f .txt).out; done
+#+END_SRC
 
 * estatísticas
 | 81e23ada4e |     n | unique | unique, no-sense |
@@ -21,12 +27,17 @@ saida com os arquivos do diretório abaixo.
 | R          |   281 |     80 |               46 |
 
 ** sentences
-number of sentences is the same as the number of blank lines in =art-*.out=
-files:
+
+number of sentences is the same as the number of blank lines in
+=art-*.out= files:
+
 : grep -vP '\S' art-*.out | wc -l
+
 ** tokens
+
 number of tokens is the number of non-blank lines in =art-*.out= files:
 : grep -P '\S' art-*.out | wc -l
+
 uniques:
 : grep -h -P '\S' art-*.out | cut -f2-3 -d ' ' | grep -oE '^[^ ]+ [^ ]' | sort -u | wc -l
 
@@ -40,4 +51,5 @@ uniques:
 
 Freeling não encontrou sense para tokens que deveriam ter, pois são
 adjetivos, substantivos, verbos, ou advérbios.
+
 : awk '$3 ~ /^[NAVR]/ && NF < 4 {print $2,substr($3,1,1)}' art-*.out | sort | uniq -c | sort -nr

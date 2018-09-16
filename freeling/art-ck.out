@@ -140,7 +140,10 @@ o o DA0MS0
 Conselho_Seccional conselho_seccional NP00000 
 . . Fp 
 
-Cabe_a_o_Conselho_Seccional cabe_a_o_conselho_seccional NP00000 
+Cabe caber VMIP3S0 00050652-v:0/02735753-v:0
+a a SP 
+o o DA0MS0 
+Conselho_Seccional conselho_seccional NP00000 
 fixar fixar VMN0000 00486998-v:0/00722232-v:0/00947077-v:0/01020005-v:0/01340439-v:0/01343892-v:0/01616901-v:0/01647229-v:0/01647543-v:0
 , , Fc 
 em em SP 
