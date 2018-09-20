@@ -348,7 +348,6 @@
 6341	10	3	deslocamento de competência
 6346	10	7	dezoito anos
 6354	10	4	dispositivo do código
-6380	10	7	dolo ou culpa
 6393	10	6	duplo grau
 6418	10	5	empresas mercantis
 6425	10	6	escritórios de advocacia
