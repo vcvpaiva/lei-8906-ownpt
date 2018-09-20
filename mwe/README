@@ -2,13 +2,16 @@
 
 download wikipedia titles from https://dumps.wikimedia.org/other/
 
-** lista simples -> formato título wikipedia ()
-- remover trailing whitespace e mais de um espaço adjacente.
-- lista simples :: um candidato a MWE por linha
-- formato wikipedia :: primeira letra da linha maiúscula, underline
-     =_= no lugar de espaço
-: sed -e 's/^./\U&/' -e 's/ /_/g' mwes_proposed.txt | sort -u > mwes-formatted.txt
+** lista simples -> formato título wikipedia 
+
+No Emacs:
+
+- remover trailing whitespace e mais de um espaço adjacente
+- um candidato a MWE por linha
+- transformar underline em espaços
+- tudo downcase
 
 ** matching MWEs e títulos de artigos da wikipedia
-: comm -2 -3 mwes-formatted.txt titles-ptwiki.txt > missing.txt
-: comm -2 -1 mwes-formatted.txt titles-ptwiki.txt > found.txt                       
+
+See check.lisp
+
