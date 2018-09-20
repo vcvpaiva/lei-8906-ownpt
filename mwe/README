@@ -1,0 +1,17 @@
+# -*- mode:org -*-
+
+download wikipedia titles from https://dumps.wikimedia.org/other/
+
+** lista simples -> formato título wikipedia 
+
+No Emacs:
+
+- remover trailing whitespace e mais de um espaço adjacente
+- um candidato a MWE por linha
+- transformar underline em espaços
+- tudo downcase
+
+** matching MWEs e títulos de artigos da wikipedia
+
+See check.lisp
+
