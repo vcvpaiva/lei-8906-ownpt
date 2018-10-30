@@ -1,5 +1,4 @@
 abusivomente r
-a preceito r
 autônomo r
 cumulativomente r
 devidomente r
@@ -19,8 +18,6 @@ privativomente r
 reservadomente r
 respectivomente r
 rigorosomente r
-salvo r
-senão r
 solidariamente r
 subsidiariamente r
 trienalmente r
