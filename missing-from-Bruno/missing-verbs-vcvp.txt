@@ -7,7 +7,7 @@ isentar v  suggestion 02534307-v dispense
 locupletar v suggestion 01193721-v satiate, sate, fill, replete | saciar, fartar, encher 
 prorrogar v suggestion 02642814-v table, postpone, put_off, remit, shelve, hold_over, set_back, put_over, defer, prorogue
 protocolizar v not in PWN, only https://en.wiktionary.org/wiki/protocolize
-reconduzir v
-referendar v
-revalidar v
-substabelecer v
+reconduzir v redirect not in PWN in the sense of "direct once again", only 01953334-v redirect, airt | redirecionar
+referendar v could not find legalize in the sense of making law from neutral
+revalidar v only got validar all seem good, e.g 01012561-v 
+substabelecer v maybe 02395395-v ?
