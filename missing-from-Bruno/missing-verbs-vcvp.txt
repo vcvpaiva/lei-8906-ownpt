@@ -6,7 +6,7 @@ indiciar v suggestion 00843959-v charge | denunciar
 isentar v  suggestion 02534307-v dispense
 locupletar v suggestion 01193721-v satiate, sate, fill, replete | saciar, fartar, encher 
 prorrogar v suggestion 02642814-v table, postpone, put_off, remit, shelve, hold_over, set_back, put_over, defer, prorogue
-protocolizar v
+protocolizar v not in PWN, only https://en.wiktionary.org/wiki/protocolize
 reconduzir v
 referendar v
 revalidar v
