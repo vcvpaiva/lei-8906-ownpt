@@ -1,6 +1,6 @@
 acrescer v now in 00182406-v
 averbar v  lexical item in 00554729-v , not the juridical sense
-averiguar v
+averiguar v in 00785962-v investigate, inquire, enquire | investigar (need voting!)
 coligar v
 indiciar v
 isentar v
