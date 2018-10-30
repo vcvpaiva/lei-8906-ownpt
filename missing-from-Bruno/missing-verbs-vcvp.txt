@@ -4,7 +4,7 @@ averiguar v suggestion 00785962-v investigate, inquire, enquire | investigar (al
 coligar v suggestion 02434541-v 
 indiciar v suggestion 00843959-v charge | denunciar 
 isentar v  suggestion 02534307-v dispense
-locupletar v
+locupletar v suggestion 01193721-v satiate, sate, fill, replete | saciar, fartar, encher 
 prorrogar v
 protocolizar v
 reconduzir v
