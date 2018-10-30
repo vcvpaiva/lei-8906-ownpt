@@ -5,7 +5,6 @@ cumulativomente r
 devidomente r
 disciplinarmente r
 efetivomente r
-enquanto r
 exclusivomente r
 extrajudicialmente r
 ilimitadomente r
@@ -17,7 +16,6 @@ originariamente r
 passivomente r
 preventivomente r
 privativomente r
-quando r
 reservadomente r
 respectivomente r
 rigorosomente r
