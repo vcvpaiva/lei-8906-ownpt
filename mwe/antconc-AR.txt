@@ -409,4 +409,3 @@
 6867	10	9	vinte e quatro
 6868	10	6	vista dos autos
 6887	10	7	órgão ambiental
-
