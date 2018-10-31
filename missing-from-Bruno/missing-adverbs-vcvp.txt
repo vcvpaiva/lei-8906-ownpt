@@ -1,8 +1,8 @@
-abusivomente r
-autônomo r
-cumulativomente r
-devidomente r
-disciplinarmente r
+abusivomente r => abusivo 01160584-a ok
+autônomo r only adjective? 00728431-a 
+cumulativomente r cumulativamente => 00291083-r cumulatively 
+devidomente r  devidamente => 00196203-r ok
+disciplinarmente r disciplinariamente => disciplinario+mente 01300661-a disciplinary, disciplinal, corrective | disciplinar 
 efetivomente r
 exclusivomente r
 extrajudicialmente r
