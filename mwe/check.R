@@ -1,17 +1,16 @@
 
 options(width=155, digits=6, digits.secs=6)
 
-
-wiki  <- read.csv("ptwiki-20180622-all-titles-in-ns-0")
+wiki <- read.csv("ptwiki-20180622-all-titles-in-ns-0")
 wiki$source  <- "wiki"
 names(wiki)  <- c("term","source")
 wiki$term  <- tolower(gsub("_"," ", wiki$term))
 
-vp    <- read.csv("mwes_proposed.txt", sep = "\t", comment.char = "#", header=FALSE)
+vp <- read.csv("mwes_proposed.txt", sep = "\t", comment.char = "#", header=FALSE)
 vp$source  <- "vp"
 names(vp)  <- c("term","source")
 
-ar    <- read.csv("antconc-AR.txt", sep = "\t", comment.char = "#", header=FALSE)
+ar <- read.csv("antconc-AR.txt", sep = "\t", comment.char = "#", header=FALSE)
 ar$source  <- "ar"
 names(ar)  <- c("rank","freq","range","term","source")
 
