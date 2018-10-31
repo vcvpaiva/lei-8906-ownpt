@@ -3,8 +3,8 @@ autônomo r only adjective? 00728431-a
 cumulativomente r cumulativamente => 00291083-r cumulatively 
 devidomente r  devidamente => 00196203-r ok
 disciplinarmente r disciplinariamente => disciplinario+mente 01300661-a disciplinary, disciplinal, corrective | disciplinar 
-efetivomente r
-exclusivomente r
+efetivomente r => 00060032-r in_effect, effectively 
+exclusivomente r =>00008600-r alone, solely, only, exclusively, entirely | exclusivo, unicamente, somente,  exclusivamente
 extrajudicialmente r
 ilimitadomente r
 imediatomente r
