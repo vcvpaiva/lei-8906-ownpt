@@ -5,12 +5,11 @@ devidomente r  devidamente => 00196203-r ok
 disciplinarmente r disciplinariamente => disciplinario+mente 01300661-a disciplinary, disciplinal, corrective | disciplinar 
 efetivomente r => 00060032-r in_effect, effectively 
 exclusivomente r =>00008600-r alone, solely, only, exclusively, entirely | exclusivo, unicamente, somente,  exclusivamente
-extrajudicialmente r
-ilimitadomente r
-imediatomente r
-inclusive r
-injustificadomente r
-juridicamente r
+extrajudicialmente r => judicialmente in 00143257-r judicially and 00514272-r, but not extrajudicial
+ilimitadomente r => ilimitadamente? only unlimited 01415605-a, 01008289-a, 01914407-a
+imediatomente r => imediatamente 00048739-r, 4153-r 
+injustificadomente r =>justificadamente 00205375-r
+juridicamente r => ???
 originariamente r
 passivomente r
 preventivomente r
