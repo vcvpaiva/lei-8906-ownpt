@@ -9,11 +9,11 @@ extrajudicialmente r => judicialmente in 00143257-r judicially and 00514272-r, b
 ilimitadomente r => ilimitadamente? only unlimited 01415605-a, 01008289-a, 01914407-a
 imediatomente r => imediatamente 00048739-r, 4153-r 
 injustificadomente r =>justificadamente 00205375-r
-juridicamente r => ???
-originariamente r
-passivomente r
-preventivomente r
-privativomente r
+juridicamente r => ??? two juridical:02753724-a, 02752987-a no adverb, only judicially
+originariamente r ==>word_pt:originário not in OWN-PT
+passivomente r ==> Freeling issue passivamente 00079748-r
+preventivomente r ==> preventivo 01763813-a , 01167269-a
+privativomente r ==> privativo 02152985-a 
 reservadomente r
 respectivomente r
 rigorosomente r
