@@ -11,12 +11,12 @@ imediatomente r => imediatamente 00048739-r, 4153-r
 injustificadomente r =>justificadamente 00205375-r
 juridicamente r => ??? two juridical:02753724-a, 02752987-a no adverb, only judicially
 originariamente r ==>word_pt:originário not in OWN-PT
-passivomente r ==> Freeling issue passivamente 00079748-r
+passivomente r ==> *Freeling issue* passivamente 00079748-r
 preventivomente r ==> preventivo 01763813-a , 01167269-a
 privativomente r ==> privativo 02152985-a 
-reservadomente r
-respectivomente r
-rigorosomente r
-solidariamente r
-subsidiariamente r
-trienalmente r
+reservadomente r ==> reservado 01988324-a , 01987341-a
+respectivomente r ==> *Freeling issue* respectivamente 00137915-r
+rigorosomente r ==> *Freeling issue* rigorosamente 00179112-r, 00160440-r 
+solidariamente r ==>solidário 02111684-a
+subsidiariamente r ==> really missing subsidiário
+trienalmente r ==> trienal 01969606-a
