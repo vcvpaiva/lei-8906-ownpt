@@ -8,12 +8,12 @@ credenciado a sugg 00178811-a
 dativo a  ???
 deliberativo a sugg 02420215-a 
 derivado a sugg 00698586-a
-doutrinário a
-exonerável a
-federativo a
-fundacional a
-gestante a
-gravídico a
+doutrinário a doctrinary in Merriam-webster, not PWN
+exonerável a exonerable only in wikitionary
+federativo a federative in Merriam-Webster only
+fundacional a foundational in erriam-Webster only
+gestante a in 00173220-a (why not found?)
+gravídico a ???
 inafiançável a
 incidente a
 inciso a
