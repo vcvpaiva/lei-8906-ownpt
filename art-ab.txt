@@ -24,8 +24,8 @@ vedado: ok em 01761375-a
 http://wnpt.brlcloud.com/wn/synset?id=08329453-n
 
 mwes: 
-1. Poder Judiciário 08166318-n
-2. habeas corpus: 05183453-n
+1. Poder Judiciário 08166318-n ok
+2. habeas corpus: 05183453-n ok
 3. pessoa jurídica: missing
-4. órgãos competentes: missing
+4. <strike>órgãos competentes: missing</strike>
 5. em conjunto: http://wnpt.brlcloud.com/wn/synset?id=00197710-r OK
