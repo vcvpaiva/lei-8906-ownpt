@@ -15,9 +15,9 @@ CAPÍTULO I: Da Atividade de Advocacia
 
 =============
 mwes: 
-1. Estatuto da Advocacia
+1. ~~Estatuto da Advocacia~~
 2. Ordem dos Advogados do Brasil (OAB)
-3. O PRESIDENTE DA REPÚBLICA
+3. PRESIDENTE DA REPÚBLICA
 4. Congresso Nacional
 5. Diario Oficial da Uniao (DOU)
 
