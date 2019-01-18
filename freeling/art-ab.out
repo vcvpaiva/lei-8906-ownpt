@@ -1,92 +1,94 @@
-São ser VMIP3P0 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
-atividades atividade NCFP000 00037396-n:0/00407535-n:0/04635104-n:0/13518963-n:0/14006945-n:0
-privativas privativo AQ0FP00 02152985-a:0
-de de SP 
-advocacia advocacia NCFS000 00589217-n:0/00611143-n:0
-: : Fd 
-a o DA0FS0 
-postulação postulação NCFS000 06513366-n:0
-a a SP 
-órgão órgão NCMS000 03273551-n:0/03494537-n:0/03854065-n:0/05297523-n:0/06595056-n:0/08349350-n:0/13087625-n:0
-de de SP 
-o o DA0MS0 
-Poder_Judiciário poder_judiciário NP00000 08166318-n:0
-e e CC 
-a a SP 
-os o DA0MP0 
-juizados_especiais juizado_especial NCMP000 
-; ; Fx 
-as o DA0FP0 
-atividades atividade NCFP000 00037396-n:0/00407535-n:0/04635104-n:0/13518963-n:0/14006945-n:0
-de de SP 
-consultoria consultoria NCFS000 00631712-n:0/08073844-n:0
-, , Fc 
-assessoria assessoria NCFS000 00591236-n:0/00631712-n:0
-e e CC 
-direção direção NCFS000 01144876-n:0/06197215-n:0/06650701-n:0/08679972-n:0
-jurídicas jurídico AQ0FP00 02753724-a:0
-. . Fp 
+São ser VMIP3P0 0.998554 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
+atividades atividade NCFP000 1 00037396-n:0/00407535-n:0/04635104-n:0/13518963-n:0/14006945-n:0
+privativas privativo AQ0FP00 1 02152985-a:0
+de de SP 1 -
+advocacia advocacia NCFS000 1 00589217-n:0/00611143-n:0
+: : Fd 1 -
+a o DA0FS0 0.675415 -
+postulação postulação NCFS000 1 06513366-n:0
+a a SP 0.313151 -
+órgão órgão NCMS000 1 03273551-n:0/03494537-n:0/03494537-n:0/03854065-n:0/05297523-n:0/06595056-n:0/06595056-n:0/08349350-n:0/13087625-n:0
+de de SP 1 -
+o o DA0MS0 0.950254 - o PD0MS00 0.0313531 - o PP3MSA0 0.0183743 - o NCMS000 1.85412e-05 05198036-n:0/06832680-n:0
+Poder_Judiciário poder_judiciário NP00V00 1 08166318-n:0/08166318-n:0
+e e CC 0.999951 -
+a a SP 1 -
+os o DA0MP0 0.958022 - o PD0MP00 0.021587 - o PP3MPA0 0.0203911 -
+juizados juizados NCMP000 0.133333 -
+especiais especial AQ0CP00 1 00488187-a:0/01104026-a:0/01678729-a:0/01853228-a:0/02278011-a:0
+; ; Fx 1 -
+as o DA0FP0 0.974798 -
+atividades atividade NCFP000 1 00037396-n:0/00407535-n:0/04635104-n:0/13518963-n:0/14006945-n:0
+de de SP 1 -
+consultoria consultoria NCFS000 1 00631712-n:0/08073844-n:0
+, , Fc 1 -
+assessoria assessoria NCFS000 1 00591236-n:0/00631712-n:0
+e e CC 0.999951 -
+direção direção NCFS000 1 01144876-n:0/06197215-n:0/06650701-n:0/08679972-n:0
+jurídicas jurídico AQ0FP00 1 02753724-a:0
+. . Fp 1 -
 
-Não não RN 00024073-r:0
-se se PP3CN00 
-inclui incluir VMIP3S0 00183879-v:0/00684838-v:0/00738951-v:0/02632940-v:0/02634667-v:0/02700867-v:0
-em em SP 
-a o DA0FS0 
-atividade atividade NCFS000 00037396-n:0/00407535-n:0/04635104-n:0/13518963-n:0/14006945-n:0
-privativa privativo AQ0FS00 02152985-a:0
-de de SP 
-advocacia advocacia NCFS000 00589217-n:0/00611143-n:0
-a a SP 
-impetração impetração NCFS000 
-de de SP 
-habeas_corpus habeas_corpus NCMS000 05183453-n:0
-em em SP 
-qualquer qualquer DI0CS0 
-instância instância NCFS000 06513366-n:0/14451349-n:0
-ou ou CC 
-tribunal tribunal NCMS000 03120778-n:0/03649459-n:0/08329453-n:0
-. . Fp 
+Não não RN 0.99985 00024073-r:0
+se se PP3CN00 0.861659 -
+inclui incluir VMIP3S0 0.931818 00183879-v:0/00684838-v:0/00738951-v:0/02632940-v:0/02634667-v:0/02700867-v:0
+em em SP 1 -
+a o DA0FS0 1 -
+atividade atividade NCFS000 1 00037396-n:0/00407535-n:0/04635104-n:0/13518963-n:0/14006945-n:0
+privativa privativo AQ0FS00 1 02152985-a:0
+de de SP 1 -
+advocacia advocacia NCFS000 1 00589217-n:0/00611143-n:0
+a a SP 0.313151 -
+impetração impetração NCFS000 1 -
+de de SP 1 -
+habeas habeas AQ0CN00 1 -
+corpus corpus NCMS000 1 -
+em em SP 1 -
+qualquer qualquer DI0CS0 0.881232 -
+instância instância NCFS000 1 06513366-n:0/14451349-n:0
+ou ou CC 1 -
+tribunal tribunal NCMS000 1 03120778-n:0/03649459-n:0/08329453-n:0
+. . Fp 1 -
 
-Os o DA0MP0 
-atos ato NCMP000 00030358-n:0/00037396-n:0/00550341-n:0/06532095-n:0/06545137-n:0/07009640-n:0
-e e CC 
-contratos contrato NCMP000 06520944-n:0/06525588-n:0/06545137-n:0/06737394-n:0
-constitutivos constitutivo AQ0MP00 
-de de SP 
-pessoas pessoa NCFP000 00007846-n:0/04617562-n:0/05217688-n:0/06326797-n:0/10203839-n:0/10289039-n:0/10344443-n:0
-jurídicas jurídico AQ0FP00 02753724-a:0
-, , Fc 
-sob_pena_de sob_pena_de SP 
-nulidade nulidade NCFS000 06532763-n:0
-, , Fc 
-só só RG 00004722-r:0
-podem poder VMIP3P0 01192628-v:0/02744451-v:0
-ser ser VMN0000 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
-admitidos admitir VMP00PM 00592883-v:0/00723545-v:0/00817311-v:0/00818553-v:0/01773734-v:0/02236624-v:0/02348568-v:0/02449847-v:0/02502536-v:0/02671279-v:0/02745486-v:0
-a o DA0FS0 
-registro registro NCMS000 00050037-n:0/04071876-n:0/06503724-n:0/06507041-n:0/06647206-n:0/13403643-n:0
-, , Fc 
-em em SP 
-os o DA0MP0 
-órgãos órgão NCMP000 03273551-n:0/03494537-n:0/03854065-n:0/05297523-n:0/06595056-n:0/08349350-n:0/13087625-n:0
-competentes competente AQ0CP00 00510050-a:0/02226162-a:0
-, , Fc 
-quando quando RG 
-visados visar VMP00PM 00998182-v:0
-por por SP 
-advogados advogado NCMP000 09774783-n:0/09775663-n:0/09840963-n:0/10249950-n:0/10623175-n:0
-. . Fp 
+Os o DA0MP0 0.958022 -
+atos ato NCMP000 1 00030358-n:0/00037396-n:0/00550341-n:0/06532095-n:0/06545137-n:0/07009640-n:0
+e e CC 0.999951 -
+contratos contrato NCMP000 1 06520944-n:0/06525588-n:0/06545137-n:0/06737394-n:0
+constitutivos constitutivo AQ0MP00 1 -
+de de SP 1 -
+pessoas pessoa NCFP000 1 00007846-n:0/04617562-n:0/05217688-n:0/06326797-n:0/10203839-n:0/10289039-n:0/10344443-n:0
+jurídicas jurídico AQ0FP00 1 02753724-a:0
+, , Fc 1 -
+sob_pena_de sob_pena_de SP 1 -
+nulidade nulidade NCFS000 1 06532763-n:0
+, , Fc 1 -
+só só RG 0.989218 00004722-r:0
+podem poder VMIP3P0 0.993174 01192628-v:0/02744451-v:0
+ser ser VMN0000 0.33093 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
+admitidos admitir VMP00PM 0.992495 00592883-v:0/00723545-v:0/00817311-v:0/00818553-v:0/01773734-v:0/02236624-v:0/02348568-v:0/02449847-v:0/02502536-v:0/02671279-v:0/02745486-v:0
+a o DA0FS0 0.675415 -
+registro registro NCMS000 0.914011 00050037-n:0/04071876-n:0/06503724-n:0/06507041-n:0/06647206-n:0/13403643-n:0
+, , Fc 1 -
+em em SP 1 -
+os o DA0MP0 1 -
+órgãos órgão NCMP000 1 03273551-n:0/03494537-n:0/03494537-n:0/03854065-n:0/05297523-n:0/06595056-n:0/06595056-n:0/08349350-n:0/13087625-n:0
+competentes competente AQ0CP00 0.585495 00510050-a:0/02226162-a:0
+, , Fc 1 -
+quando quando RG 0.998992 -
+visados visar VMP00PM 0.992518 00998182-v:0
+por por SP 1 -
+advogados advogado NCMP000 0.556849 09774783-n:0/09775663-n:0/09840963-n:0/10249950-n:0/10623175-n:0
+. . Fp 1 -
 
-É ser VMIP3S0 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
-vedada vedar VMP00SF 01348013-v:0/01354006-v:0/01761375-a:0
-a o DA0FS0 
-divulgação divulgação NCFS000 06674542-n:0
-de de SP 
-advocacia advocacia NCFS000 00589217-n:0/00611143-n:0
-em em SP 
-conjunto conjunto NCMS000 00031264-n:0/03619396-n:0/07954014-n:0/07985135-n:0/07999699-n:0
-com com SP 
-outra outro DI0FS0 
-atividade atividade NCFS000 00037396-n:0/00407535-n:0/04635104-n:0/13518963-n:0/14006945-n:0
-. . Fp 
+É ser VMIP3S0 1 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
+vedada vedar VMP00SF 0.97673 01348013-v:0/01354006-v:0/01761375-a:0
+a o DA0FS0 0.675415 -
+divulgação divulgação NCFS000 1 06674542-n:0
+de de SP 1 -
+advocacia advocacia NCFS000 1 00589217-n:0/00611143-n:0
+em em SP 1 -
+conjunto conjunto NCMS000 0.988439 00031264-n:0/03619396-n:0/07954014-n:0/07985135-n:0/07999699-n:0
+com com SP 1 -
+outra outro DI0FS0 0.616959 -
+atividade atividade NCFS000 1 00037396-n:0/00407535-n:0/04635104-n:0/13518963-n:0/14006945-n:0
+. . Fp 1 -
 

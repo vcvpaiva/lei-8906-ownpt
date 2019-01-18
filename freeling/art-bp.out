@@ -1,35 +1,35 @@
-A o DA0FS0 
-multa multa NCFS000 06558678-n:0/13301328-n:0
-, , Fc 
-variável variável AQ0CS00 00344125-a:0/01028796-a:0/02504131-a:0/02504558-a:0/02507515-a:0
-entre entre SP 
-o o DA0MS0 
-mínimo mínimo NCMS000 13763384-n:0
-correspondente correspondente AQ0CS00 00481737-a:0/01020885-a:0/01974451-a:0/02063554-a:0/02071973-a:0/02072660-a:0
-a a SP 
-o o DA0MS0 
-valor valor NCMS000 05138208-n:0/05159725-n:0/05856388-n:0/05923983-n:0/13413493-n:0/13764342-n:0
-de de SP 
-uma um DI0FS0 
-anuidade anuidade NCFS000 13294503-n:0
-e e CC 
-o_máximo o_máximo NCMS000 
-de de SP 
-seu seu DP3MSS 
-décuplo décuplo AO0MS00 
-, , Fc 
-é ser VMIP3S0 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
-aplicável aplicável AQ0CS00 01975448-a:0
-cumulativamente cumulativomente RG 
-com com SP 
-a o DA0FS0 
-censura censura NCFS000 00397347-n:0/00821083-n:0
-ou ou CC 
-suspensão suspensão NCFS000 00209132-n:0/01017701-n:0/01063578-n:0/04366116-n:0/07368256-n:0/14010636-n:0/15271008-n:0
-, , Fc 
-em em SP 
-havendo haver VMG0000 02616713-v:0
-circunstâncias circunstância NCFP000 05822746-n:0/13942875-n:0/14512817-n:0
-agravantes agravante AQ0CP00 01340422-a:0
-. . Fp 
+A o DA0FS0 0.675415 -
+multa multa NCFS000 0.953488 06558678-n:0/13301328-n:0/13301328-n:0
+, , Fc 1 -
+variável variável AQ0CS00 0.667362 00344125-a:0/01028796-a:0/02504131-a:0/02504558-a:0/02507515-a:0
+entre entre SP 0.987856 -
+o o DA0MS0 0.950254 -
+mínimo mínimo NCMS000 0.621951 13763384-n:0
+correspondente correspondente AQ0CS00 0.788462 00481737-a:0/01020885-a:0/01974451-a:0/02063554-a:0/02071973-a:0/02072660-a:0
+a a SP 1 -
+o o DA0MS0 0.950254 - o PD0MS00 0.0313531 - o PP3MSA0 0.0183743 - o NCMS000 1.85412e-05 05198036-n:0/06832680-n:0
+valor valor NCMS000 1 05138208-n:0/05159725-n:0/05856388-n:0/05923983-n:0/13413493-n:0/13764342-n:0
+de de SP 1 -
+uma um DI0FS0 0.903495 -
+anuidade anuidade NCFS000 1 13294503-n:0
+e e CC 0.999951 -
+o_máximo o_máximo NCMS000 1 -
+de de SP 1 -
+seu seu DP3MSS 0.957305 -
+décuplo décuplo AO0MS00 1 -
+, , Fc 1 -
+é ser VMIP3S0 1 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
+aplicável aplicável AQ0CS00 1 01975448-a:0
+cumulativamente cumulativo RG 1 -
+com com SP 1 -
+a o DA0FS0 0.675415 -
+censura censura NCFS000 0.800239 00397347-n:0/00821083-n:0
+ou ou CC 1 -
+suspensão suspensão NCFS000 1 00209132-n:0/01017701-n:0/01063578-n:0/04366116-n:0/07368256-n:0/14010636-n:0/15271008-n:0
+, , Fc 1 -
+em em SP 1 -
+havendo haver VMG0000 1 02616713-v:0
+circunstâncias circunstância NCFP000 1 05822746-n:0/13942875-n:0/14512817-n:0
+agravantes agravante AQ0CP00 0.614431 01340422-a:0
+. . Fp 1 -
 

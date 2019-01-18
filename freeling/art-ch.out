@@ -1,63 +1,61 @@
-O o DA0MS0 
-Conselho_Seccional conselho_seccional NP00000 
-exerce exercer VMIP3S0 01095218-v:0/01166093-v:0/02204564-v:0/02568672-v:0
-e e CC 
-observa observar VMIP3S0 00732552-v:0/02118476-v:0/02118933-v:0/02130160-v:0/02130524-v:0/02165002-v:0/02169352-v:0/02455407-v:0
-, , Fc 
-em em SP 
-o o DA0MS0 
-respectivo respectivo AQ0MS00 00494409-a:0
-território território NCMS000 08493064-n:0/08497294-n:0/08552138-n:0
-, , Fc 
-as o DA0FP0 
-competências competência NCFP000 05153520-n:0/05154114-n:0/05622456-n:0
-, , Fc 
-vedações vedação NCFP000 00830099-n:0
-e e CC 
-funções função NCFP000 00582388-n:0/00720565-n:0/00722061-n:0/05149325-n:0/06582403-n:0/13781164-n:0/13783816-n:0
-atribuídas atribuir VMP00PF 00726300-v:0/00726784-v:0/00727791-v:0/00740053-v:0/02228698-v:0
-a a SP 
-o o DA0MS0 
-Conselho_Federal conselho_federal NP00000 
-, , Fc 
-em em SP 
-o o DA0MS0 
-que que PR0CN00 
-couber caber VMSF1S0 00050652-v:0/02659763-v:0/02735753-v:0
-e e CC 
-em em SP 
-o o DA0MS0 
-âmbito âmbito NCMS000 05127782-n:0/14513259-n:0
-de de SP 
-sua seu DP3FSS 
-competência competência NCFS000 05153520-n:0/05154114-n:0/05622456-n:0
-material material AQ0CS00 00626800-a:0
-e e CC 
-territorial territorial AQ0CS00 02408611-a:0/02409500-a:0/02812482-a:0
-, , Fc 
-e e CC 
-as o DA0FP0 
-normas norma NCFP000 05846054-n:0/06652242-n:0/13854488-n:0
-gerais geral AQ0CP00 00487198-a:0/00489108-a:0/01101391-a:0
-estabelecidas estabelecer VMP00PF 00539338-v:0/00665476-v:0/01647229-v:0/01655505-v:0/02427103-v:0/02621395-v:0/02635033-v:0/01635146-a:0/02493300-a:0
-em em SP 
-esta este DD0FS0 
-lei lei NCFS000 05846054-n:0/05872982-n:0/06532330-n:0/08209687-n:0/08441203-n:0/08456347-n:0
-, , Fc 
-em em SP 
-o o DA0MS0 
-regulamento regulamento NCMS000 05846054-n:0/06537951-n:0
-geral geral AQ0CS00 00487198-a:0/00489108-a:0/01101391-a:0
-, , Fc 
-em em SP 
-o o DA0MS0 
-Código_de_Ética código_de_ética NP00000 
-e e CC 
-Disciplina disciplina NP00000 00893836-n:0/04881623-n:0/05662876-n:0/05996646-n:0
-, , Fc 
-e e CC 
-em em SP 
-os o DA0MP0 
-Provimentos provimentos NP00000 
-. . Fp 
+O o DA0MS0 0.950254 -
+Conselho_Seccional conselho_seccional NP00O00 1 -
+exerce exercer VMIP3S0 0.999479 01095218-v:0/01166093-v:0/02204564-v:0/02568672-v:0
+e e CC 0.999951 -
+observa observar VMIP3S0 0.983871 00732552-v:0/02118476-v:0/02118933-v:0/02130160-v:0/02130524-v:0/02165002-v:0/02169352-v:0/02455407-v:0
+, , Fc 1 -
+em em SP 1 -
+o o DA0MS0 1 -
+respectivo respectivo AQ0MS00 1 00494409-a:0
+território território NCMS000 1 08493064-n:0/08497294-n:0/08552138-n:0
+, , Fc 1 -
+as o DA0FP0 0.974798 -
+competências competência NCFP000 1 05153520-n:0/05154114-n:0/05622456-n:0
+, , Fc 1 -
+vedações vedação NCFP000 1 00830099-n:0
+e e CC 0.999951 -
+funções função NCFP000 1 00582388-n:0/00720565-n:0/00722061-n:0/05149325-n:0/06582403-n:0/13781164-n:0/13783816-n:0
+atribuídas atribuir VMP00PF 0.992518 00726300-v:0/00726784-v:0/00727791-v:0/00740053-v:0/02228698-v:0
+a a SP 1 -
+o o DA0MS0 0.950254 - o PD0MS00 0.0313531 - o PP3MSA0 0.0183743 - o NCMS000 1.85412e-05 05198036-n:0/06832680-n:0
+Conselho_Federal conselho_federal NP00O00 1 -
+, , Fc 1 -
+em em SP 1 -
+o o DA0MS0 1 -
+que que CS 0.398036 -
+couber caber VMSF1S0 0.5 00050652-v:0/02659763-v:0/02735753-v:0
+e e CC 0.999951 -
+em em SP 1 -
+o o DA0MS0 1 -
+âmbito âmbito NCMS000 1 05127782-n:0/14513259-n:0
+de de SP 1 -
+sua seu DP3FSS 0.929764 -
+competência competência NCFS000 1 05153520-n:0/05154114-n:0/05622456-n:0
+material material AQ0CS00 0.0901639 00626800-a:0
+e e CC 0.999951 -
+territorial territorial AQ0CS00 1 02408611-a:0/02409500-a:0/02812482-a:0
+, , Fc 1 -
+e e CC 0.999951 -
+as o DA0FP0 0.974798 -
+normas norma NCFP000 1 05846054-n:0/06652242-n:0/09372176-n:0/13854488-n:0
+gerais geral AQ0CP00 0.289449 00487198-a:0/00489108-a:0/01101391-a:0
+estabelecidas estabelecer VMP00PF 0.992518 00539338-v:0/00665476-v:0/01647229-v:0/01655505-v:0/02427103-v:0/02621395-v:0/02635033-v:0/01635146-a:0/02493300-a:0
+em em SP 1 -
+esta este DD0FS0 0.877868 - este PD0FS00 0.122132 -
+lei lei NCFS000 1 05846054-n:0/05872982-n:0/06532330-n:0/08209687-n:0/08441203-n:0/08456347-n:0
+, , Fc 1 -
+em em SP 1 -
+o o DA0MS0 1 -
+regulamento regulamento NCMS000 0.97619 05846054-n:0/06537951-n:0
+geral geral AQ0CS00 0.694581 00487198-a:0/00489108-a:0/01101391-a:0
+, , Fc 1 -
+em em SP 1 -
+o o DA0MS0 1 -
+Código_de_Ética_e_Disciplina código_de_ética_e_disciplina NP00V00 1 -
+, , Fc 1 -
+e e CC 0.999951 -
+em em SP 1 -
+os o DA0MP0 1 -
+Provimentos provimentos NP00G00 1 -
+. . Fp 1 -
 

@@ -1,26 +1,26 @@
-O o DA0MS0 
-pagamento pagamento NCMS000 01120448-n:0/13278375-n:0
-de de SP 
-a o DA0FS0 
-contribuição contribuição NCFS000 00787465-n:0/13269890-n:0/13270038-n:0
-anual anual AQ0CS00 00678024-a:0/01969150-a:0
-a a SP 
-a o DA0FS0 
-OAB oab NP00000 
-isenta isentar VMIP3S0 
-os o DA0MP0 
-inscritos inscrever VMP00PM 01097309-v:0/02471087-v:0/02471327-v:0
-em em SP 
-os o DA0MP0 
-seus seu DP3MPS 
-quadros quadro NCMP000 02846511-n:0/02856463-n:0/03391464-n:0
-de de SP 
-o o DA0MS0 
-pagamento pagamento NCMS000 01120448-n:0/13278375-n:0
-obrigatório obrigatório AQ0MS00 00848074-a:0/00848466-a:0/01580968-a:0
-de de SP 
-a o DA0FS0 
-contribuição contribuição NCFS000 00787465-n:0/13269890-n:0/13270038-n:0
-sindical sindical AQ0CS00 02474191-a:0
-. . Fp 
+O o DA0MS0 0.950254 -
+pagamento pagamento NCMS000 1 01120448-n:0/13278375-n:0
+de de SP 1 -
+a o DA0FS0 0.675415 - a SP 0.313151 - o PP3FSA0 0.00613742 - o PD0FS00 0.00514062 - a NCMS000 0.000156639 06831177-n:0
+contribuição contribuição NCFS000 1 00787465-n:0/13269890-n:0/13270038-n:0
+anual anual AQ0CS00 1 00678024-a:0/01969150-a:0
+a a SP 1 -
+a o DA0FS0 0.675415 - a SP 0.313151 - o PP3FSA0 0.00613742 - o PD0FS00 0.00514062 - a NCMS000 0.000156639 06831177-n:0
+OAB oab NP00O00 1 -
+isenta isentar VMIP3S0 0.41393 02534307-v:0
+os o DA0MP0 0.958022 -
+inscritos inscrever VMP00PM 0.892483 01097309-v:0/02471087-v:0/02471327-v:0
+em em SP 1 -
+os o DA0MP0 1 -
+seus seu DP3MPS 0.857735 -
+quadros quadro NCMP000 1 02846511-n:0/02856463-n:0/03391464-n:0
+de de SP 1 -
+o o DA0MS0 0.950254 - o PD0MS00 0.0313531 - o PP3MSA0 0.0183743 - o NCMS000 1.85412e-05 05198036-n:0/06832680-n:0
+pagamento pagamento NCMS000 1 01120448-n:0/13278375-n:0
+obrigatório obrigatório AQ0MS00 1 00848074-a:0/00848466-a:0/01580968-a:0
+de de SP 1 -
+a o DA0FS0 0.675415 - a SP 0.313151 - o PP3FSA0 0.00613742 - o PD0FS00 0.00514062 - a NCMS000 0.000156639 06831177-n:0
+contribuição contribuição NCFS000 1 00787465-n:0/13269890-n:0/13270038-n:0
+sindical sindical AQ0CS00 1 02474191-a:0
+. . Fp 1 -
 

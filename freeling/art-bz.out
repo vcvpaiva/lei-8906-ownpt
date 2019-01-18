@@ -1,71 +1,67 @@
-Os o DA0MP0 
-Presidentes_de_os_Conselhos presidentes_de_os_conselhos NP00000 
-e e CC 
-de de SP 
-as o DA0FP0 
-Subseções_de_a_OAB subseções_de_a_oab NP00000 
-têm ter VMIP3P0 00056930-v:0/00065370-v:0/00065639-v:0/00121046-v:0/00639849-v:0/02108026-v:0/02203362-v:0/02204692-v:0/02632167-v:0/02700867-v:0/02746275-v:0/02749904-v:0
-legitimidade legitimidade NCFS000 04783247-n:0/04810035-n:0
-para para SP 
-agir agir VMN0000 00010435-v:0/02367363-v:0/02376631-v:0
-, , Fc 
-judicial judicial AQ0CS00 02752987-a:0/02753724-a:0
-e e CC 
-extrajudicialmente extrajudicialmente RG 
-, , Fc 
-contra contra SP 
-qualquer qualquer DI0CS0 
-pessoa pessoa NCFS000 00007846-n:0/04617562-n:0/05217688-n:0/06326797-n:0/10203839-n:0/10289039-n:0/10344443-n:0
-que que PR0CN00 
-infringir infringir VMSF1S0 02566528-v:0/02567147-v:0
-as o DA0FP0 
-disposições disposição NCFP000 00043609-n:0/04623612-n:0/04644512-n:0/04835724-n:0
-ou ou CC 
-os o DA0MP0 
-fins fim NCMP000 05981230-n:0/07291312-n:0/07291794-n:0/11410625-n:0/15143477-n:0/15266911-n:0/15267536-n:0
-de de SP 
-esta este DD0FS0 
-lei lei NCFS000 05846054-n:0/05872982-n:0/06532330-n:0/08209687-n:0/08441203-n:0/08456347-n:0
-. . Fp 
+Os o DA0MP0 0.958022 -
+Presidentes_dos_Conselhos_e_das_Subseções_da_OAB presidentes_dos_conselhos_e_das_subseções_da_oab NP00O00 1 -
+têm ter VMIP3P0 1 00056930-v:0/00065370-v:0/00065639-v:0/00121046-v:0/00639849-v:0/02108026-v:0/02203362-v:0/02204692-v:0/02632167-v:0/02700867-v:0/02746275-v:0/02749904-v:0
+legitimidade legitimidade NCFS000 1 04783247-n:0/04810035-n:0
+para para SP 0.999444 -
+agir agir VMN0000 0.529581 00010435-v:0/02367363-v:0/02376631-v:0
+, , Fc 1 -
+judicial judicial AQ0CS00 1 00650135-a:0/01400961-a:0/02752987-a:0/02753205-a:0/02753724-a:0
+e e CC 0.999951 -
+extrajudicialmente extrajudicial RG 1 -
+, , Fc 1 -
+contra contra SP 0.996248 -
+qualquer qualquer DI0CS0 0.881232 -
+pessoa pessoa NCFS000 1 00007846-n:0/04617562-n:0/05217688-n:0/06326797-n:0/10203839-n:0/10289039-n:0/10344443-n:0
+que que PR0CN00 0.584265 -
+infringir infringir VMSF1S0 0.00562827 02566528-v:0/02567147-v:0
+as o DA0FP0 0.974798 -
+disposições disposição NCFP000 1 00043609-n:0/04623612-n:0/04644512-n:0/04644512-n:0/04835724-n:0
+ou ou CC 1 -
+os o DA0MP0 0.958022 -
+fins fim NCMP000 1 05981230-n:0/07291312-n:0/07291794-n:0/11410625-n:0/15143477-n:0/15266911-n:0/15267536-n:0
+de de SP 1 -
+esta este DD0FS0 0.877868 - este PD0FS00 0.122132 -
+lei lei NCFS000 1 05846054-n:0/05872982-n:0/06532330-n:0/08209687-n:0/08441203-n:0/08456347-n:0
+. . Fp 1 -
 
-As o DA0FP0 
-autoridades autoridade NCFP000 06411592-n:0/09824361-n:0/09824609-n:0
-mencionadas mencionar VMP00PF 00730052-v:0/01020005-v:0/01023574-v:0/01024190-v:0/01058574-v:0
-em em SP 
-o o DA0MS0 
-caput caput I 
-de de SP 
-este este DD0MS0 
-artigo artigo NCMS000 00022903-n:0/02745091-n:0/03076708-n:0/03748886-n:0/04550840-n:0/06268096-n:0/06269956-n:0/06324669-n:0/06392935-n:0/06681177-n:0/06681551-n:0/06683784-n:0
-têm ter VMIP3P0 00056930-v:0/00065370-v:0/00065639-v:0/00121046-v:0/00639849-v:0/02108026-v:0/02203362-v:0/02204692-v:0/02632167-v:0/02700867-v:0/02746275-v:0/02749904-v:0
-, , Fc 
-ainda ainda RG 00017639-r:0/00027795-r:0/00027918-r:0/00031304-r:0/00047534-r:0
-, , Fc 
-legitimidade legitimidade NCFS000 04783247-n:0/04810035-n:0
-para para SP 
-intervir intervir VMN0000 
-, , Fc 
-inclusive inclusive RG 
-como como RG 00159040-r:0
-assistentes assistente AQ0CP00 
-, , Fc 
-em em SP 
-os o DA0MP0 
-inquéritos inquérito NCMP000 00636728-n:0/00637354-n:0/00637810-n:0/05797597-n:0/05800611-n:0/07193184-n:0/07193596-n:0
-e e CC 
-processos processo NCMP000 01023636-n:0/01023820-n:0/01181902-n:0/01182654-n:0/01198307-n:0
-em em SP 
-que que CS 
-sejam ser VMSP3P0 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
-indiciados indiciar VMP00PM 
-, , Fc 
-acusados acusar VMP00PM 00842772-v:0/00842989-v:0/00843468-v:0
-ou ou CC 
-ofendidos ofender VMP00PM 00848420-v:0/01789270-v:0/01793177-v:0/01810447-v:0/02566528-v:0/01712753-a:0
-os o DA0MP0 
-inscritos inscrever VMP00PM 01097309-v:0/02471087-v:0/02471327-v:0
-em em SP 
-a o DA0FS0 
-OAB oab NP00000 
-. . Fp 
+As o DA0FP0 0.974798 -
+autoridades autoridade NCFP000 1 06411592-n:0/09824361-n:0/09824609-n:0
+mencionadas mencionar VMP00PF 0.992518 00730052-v:0/01020005-v:0/01023574-v:0/01024190-v:0/01058574-v:0
+em em SP 1 -
+o o DA0MS0 1 -
+caput caput I 1 -
+de de SP 1 -
+este este DD0MS0 1 -
+artigo artigo NCMS000 1 00022903-n:0/02745091-n:0/03076708-n:0/03748886-n:0/04550840-n:0/06268096-n:0/06269956-n:0/06324669-n:0/06392935-n:0/06681177-n:0/06681551-n:0/06683784-n:0
+têm ter VMIP3P0 1 00056930-v:0/00065370-v:0/00065639-v:0/00121046-v:0/00639849-v:0/02108026-v:0/02203362-v:0/02204692-v:0/02632167-v:0/02700867-v:0/02746275-v:0/02749904-v:0
+, , Fc 1 -
+ainda ainda RG 1 00017639-r:0/00027795-r:0/00027918-r:0/00031304-r:0/00047534-r:0
+, , Fc 1 -
+legitimidade legitimidade NCFS000 1 04783247-n:0/04810035-n:0
+para para SP 0.999444 -
+intervir intervir VMN0000 0.533333 -
+, , Fc 1 -
+inclusive inclusive RG 1 00029367-r:0
+como como RG 0.205121 00159040-r:0
+assistentes assistente AQ0CP00 0.629864 00793250-a:0
+, , Fc 1 -
+em em SP 1 -
+os o DA0MP0 1 -
+inquéritos inquérito NCMP000 1 00636728-n:0/00637354-n:0/00637810-n:0/05797597-n:0/05800611-n:0/07193184-n:0/07193596-n:0
+e e CC 0.999951 -
+processos processo NCMP000 1 01023636-n:0/01023820-n:0/01181902-n:0/01182654-n:0/01198307-n:0
+em em SP 1 -
+que que CS 0.398036 -
+sejam ser VMSP3P0 0.992424 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
+indiciados indiciar VMP00PM 0.621912 00843959-v:0
+, , Fc 1 -
+acusados acusar VMP00PM 0.72093 00842772-v:0/00842989-v:0/00843468-v:0/00843959-v:0
+ou ou CC 1 -
+ofendidos ofender VMP00PM 0.62185 00848420-v:0/01789270-v:0/01793177-v:0/01810447-v:0/02566528-v:0/01712753-a:0
+os o DA0MP0 0.958022 -
+inscritos inscrever VMP00PM 0.892483 01097309-v:0/02471087-v:0/02471327-v:0
+em em SP 1 -
+a o DA0FS0 1 -
+OAB oab NP00O00 1 -
+. . Fp 1 -
 
