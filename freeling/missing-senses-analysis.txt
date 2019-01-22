@@ -66,8 +66,6 @@ saida freeling da lei 8906:
    1 Procuradoria_da_Fazenda_Nacional procuradoria_da_fazenda_nacional NP00O00 1 -
    1 Procuradorias_e_Consultorias_Jurídicas_dos_Estados procuradorias_e_consultorias_jurídicas_dos_estados NP00O00 1 -
    1 Provimento_do_Conselho_Federal provimento_do_conselho_federal NP00O00 1 -
-   1 Provimentos provimentos NP00G00 1 - erro POS + added https://www.direitonet.com.br/dicionario/exibir/890/Provimento (?)
-   2 Provimentos provimentos NP00V00 1 - erro POS 
    1 Prática_Forense prática_forense NP00V00 1 -
    2 Quando quando RG 0.998992 -
    1 Regulamento_Geral regulamento_geral NP00O00 1 -
@@ -285,19 +283,29 @@ saida freeling da lei 8906:
    1 passivamente passivo RG 1 -
    1 patrona patrona NCFS000 0.5 -
    1 permanentes permanente NCFP000 0.482636 - erro POS tagging (tem adj)
+
    1 permissionárias permissionárias AQ0FP00 1 - erro POS e lemma , contexto 'empresas concessionárias ou permissionárias' MWE? como Noun in http://wnpt.brlcloud.com/wn/synset?id=10258493-n
+
    1 pertencentes pertencente AQ0CP00 1 -
-   1 pessoalmente pessoal RG 1 -
+
+   1 pessoalmente pessoal RG 1 - erro lematizacao
+
    1 policial policial AQ0CS00 0.667364 -
    2 precatório precatório NCMS000 0.584625 -
    2 preenchimento preenchimento NCMS000 1 -
    1 preliminar preliminar NCMS000 0.642961 -
    1 presta presto AQ0FS00 0.569769 -
-   1 preventivamente preventivo RG 1 -
-   1 privativamente privativo RG 1 -
-   1 profissionalmente profissional RG 1 -
-   1 protocolizada protocolizar VMP00SF 1 -
-   1 provimento provimento NCMS000 1 -
+
+   1 preventivamente preventivo RG 1 - not in PWN
+   1 privativamente privativo RG 1 - erro lematizacao, added http://wnpt.brlcloud.com/wn/synset?id=00162645-r
+
+   1 profissionalmente profissional RG 1 - erro lematizacao, http://wnpt.brlcloud.com/wn/synset?id=00130432-r
+   1 protocolizada protocolizar VMP00SF 1 - verbo? added to http://wnpt.brlcloud.com/wn/synset?id=01001857-v 
+
+   1 provimento provimento NCMS000 1 - consultado https://www.direitonet.com.br/dicionario/exibir/890/Provimento dois sentidos jur
+   1 Provimentos provimentos NP00G00 1 - erro lematizacao + added http://wnpt.brlcloud.com/wn/synset?id=06755947-n, 
+   2 Provimentos provimentos NP00V00 1 - erro lematizacao
+
    1 punibilidade punibilidade NCFS000 1 -
 
    3 qual qual PR0CS00 0.715254 - NA
