@@ -1,0 +1,375 @@
+comando usado:
+awk '$5 ~ /^-$/ && $3 !~ /^Z|^D|^PP|^F|^W$|^SP/' *.out | sort | uniq -c | pbcopy
+
+alternativa:
+awk '$5 ~ /^-$/ && $3 ~ /^[VNAR]/' *.out | sort | uniq -c
+
+saida freeling da lei 8906:
+
+   1 Administração_Pública administração_pública NP00O00 1 -
+   5 Administração_Pública administração_pública NP00V00 1 -
+   1 Advocacia-Geral advocacia-geral NP00G00 1 -
+   1 Advogados_Gerais advogados_gerais NP00G00 1 -
+   1 Ato_das_Disposições_Constitucionais_Transitórias ato_das_disposições_constitucionais_transitórias NP00V00 1 -
+   9 Caixa_de_Assistência_dos_Advogados caixa_de_assistência_dos_advogados NP00O00 1 -
+   2 Caixas_de_Assistência_dos_Advogados caixas_de_assistência_dos_advogados NP00O00 1 -
+   1 Capítulo_VI_do_Título_II capítulo_vi_do_título_ii NP00V00 1 -
+   1 Conferências conferências NP00V00 1 -
+   1 Conselheiros_Federais conselheiros_federais NP00SP0 1 -
+   1 Conselheiros_Federais conselheiros_federais NP00V00 1 -
+  21 Conselho_Federal conselho_federal NP00O00 1 -
+   2 Conselho_Federal_da_OAB conselho_federal_da_oab NP00O00 1 -
+   1 Conselho_Federal_ou_dos_Conselhos_Seccionais conselho_federal_ou_dos_conselhos_seccionais NP00O00 1 -
+  41 Conselho_Seccional conselho_seccional NP00O00 1 -
+   3 Conselho_Seccional_da_OAB conselho_seccional_da_oab NP00O00 1 -
+   1 Conselho_da_Subseção conselho_da_subseção NP00O00 1 -
+   1 Conselhos conselhos NP00G00 1 -
+   1 Conselhos_Federal conselhos_federal NP00O00 1 -
+   1 Conselhos_Federal_e_Seccionais conselhos_federal_e_seccionais NP00O00 1 -
+   7 Conselhos_Seccionais conselhos_seccionais NP00O00 1 -
+   3 Conselhos_Seccionais conselhos_seccionais NP00V00 1 -
+   1 Conselhos_da_OAB conselhos_da_oab NP00O00 1 -
+   1 Consolidação_das_Leis_do_Trabalho consolidação_das_leis_do_trabalho NP00V00 1 -
+   1 Código_de_Processo_Civil código_de_processo_civil NP00V00 1 -
+   8 Código_de_Ética_e_Disciplina código_de_ética_e_disciplina NP00V00 1 -
+   1 Código_de_Ética_e_Disciplina_e_os_Provimentos código_de_ética_e_disciplina_e_os_provimentos NP00V00 1 -
+   2 Decreto-Lei decreto-lei NP00V00 1 -
+   1 Defensores_Gerais defensores_gerais NP00SP0 1 -
+   1 Diretoria_da_Caixa_de_Assistência_dos_Advogados diretoria_da_caixa_de_assistência_dos_advogados NP00O00 1 -
+   2 Diretoria_do_Conselho_Federal diretoria_do_conselho_federal NP00O00 1 -
+   1 Diário_Eletrônico_da_Ordem_dos_Advogados diário_eletrônico_da_ordem_dos_advogados NP00O00 1 -
+   1 Estado_Maior estado_maior NP00O00 1 -
+   1 Estados-membros estados-membros NP00O00 1 -
+   1 Estatuto_e_do_Código_de_Ética_e_Disciplina estatuto_e_do_código_de_ética_e_disciplina NP00V00 1 -
+   1 Exame_da_Ordem exame_da_ordem NP00O00 1 -
+   1 Exame_de_Ordem exame_de_ordem NP00SP0 1 -
+   2 Exame_de_Ordem exame_de_ordem NP00V00 1 -
+   1 Fazenda_Pública fazenda_pública NP00V00 1 -
+   5 II ii NP00V00 1 - NA
+   2 III iii NP00O00 1 - NA
+   2 III iii VMIS3S0 0.519634 - NA
+   1 IV iv NP00O00 1 - NA
+   2 IV iv NP00V00 1 - NA
+   1 Instituto_dos_Advogados_Brasileiros instituto_dos_advogados_brasileiros NP00O00 1 -
+   1 Mesa_do_Poder_Legislativo mesa_do_poder_legislativo NP00V00 1 -
+   3 Ministério_Público ministério_público NP00O00 1 -
+   1 Municípios municípios NP00G00 1 - erro POS
+  44 OAB oab NP00O00 1 -
+   5 OAB oab NP00V00 1 -
+   3 Ordem_dos_Advogados_do_Brasil ordem_dos_advogados_do_brasil NP00O00 1 -
+   1 Organização_Judiciária organização_judiciária NP00O00 1 -
+   1 Poderes_Judiciário_e_Legislativo poderes_judiciário_e_legislativo NP00O00 1 -
+   1 Presidente_do_Instituto_dos_Advogados presidente_do_instituto_dos_advogados NP00O00 1 -
+   1 Presidentes_dos_Conselhos_da_OAB presidentes_dos_conselhos_da_oab NP00O00 1 -
+   1 Presidentes_dos_Conselhos_e_das_Subseções_da_OAB presidentes_dos_conselhos_e_das_subseções_da_oab NP00O00 1 -
+   1 Procuradores_Gerais procuradores_gerais NP00O00 1 -
+   1 Procuradoria_da_Fazenda_Nacional procuradoria_da_fazenda_nacional NP00O00 1 -
+   1 Procuradorias_e_Consultorias_Jurídicas_dos_Estados procuradorias_e_consultorias_jurídicas_dos_estados NP00O00 1 -
+   1 Provimento_do_Conselho_Federal provimento_do_conselho_federal NP00O00 1 -
+   1 Provimentos provimentos NP00G00 1 - erro POS + added https://www.direitonet.com.br/dicionario/exibir/890/Provimento (?)
+   2 Provimentos provimentos NP00V00 1 - erro POS 
+   1 Prática_Forense prática_forense NP00V00 1 -
+   2 Quando quando RG 0.998992 -
+   1 Regulamento_Geral regulamento_geral NP00O00 1 -
+   1 Regulamento_Geral_da_OAB regulamento_geral_da_oab NP00O00 1 -
+   2 Salvo salvo RG 0.473804 -
+   3 Se se CS 0.138341 -
+   2 Secretário-Geral secretário-geral NCMS000 1 -
+   1 Sociedade_Individual_de_Advocacia sociedade_individual_de_advocacia NP00O00 1 -
+   3 Subseções subseções NP00G00 1 -
+   3 Subseções subseções NP00O00 1 -
+   5 Subseções subseções NP00SP0 1 -
+   1 Territórios territórios NP00O00 1 -
+   7 Tribunal_de_Ética tribunal_de_ética NP00O00 1 -
+   2 Tribunal_de_Ética_e_Disciplina tribunal_de_ética_e_disciplina NP00O00 1 -
+   1 Título_II título_ii NP00V00 1 -
+   2 V v NCMS000 1 -
+   3 VII vii NP00O00 1 -
+   1 Vice vice AQ0CN00 1 -
+   3 XIV xiv NP00V00 1 -
+   1 XV xv NP00O00 1 -
+   1 XVI xvi NP00O00 1 -
+   1 XVI xvi VMIS1S0 1 -
+   1 XVII xvii VMIS3S0 0.519634 -
+   2 XXI xxi NP00O00 1 -
+   1 XXIII xxiii VMIS3S0 0.519634 -
+   1 XXIV xxiv NP00V00 1 -
+   1 XXIX xxix NP00O00 1 -
+   1 XXV xxv NP00O00 1 -
+   1 XXVI xxvi NP00V00 1 -
+   1 XXVIII xxviii NP00O00 1 -
+   2 a_preceito a_preceito RG 1 - 
+   1 abrangência abrangência NCFS000 1 -
+   1 abusivamente abusivo RG 1 - erro lematizacao
+   1 acerca acercar VMIP3S0 0.76 -
+   1 ad ad AQ0CN00 1 -
+   5 adotante adotante AQ0CS00 1 -
+   2 adversa adverso AQ0FS00 0.869767 -
+   2 ainda_que ainda_que CS 1 - NA
+   1 apoiamento apoiamento NCMS000 1 -
+   1 aproveitamento aproveitamento NCMS000 1 -
+   2 apuração apuração NCFS000 1 -
+   1 aquele aquele PD0MS00 0.219828 -
+   3 arbitramento arbitramento NCMS000 1 -
+   1 arquivamento arquivamento NCMS000 1 -
+  13 art. art. NCFS000 0.69743 -
+   1 arts. arts. RG 0.333333 -
+   1 atendimento atendimento NCMS000 1 -
+   1 atenuantes atenuante NCCP000 0.50272 -
+   1 ativa ativa NCFS000 0.514967 -
+   1 autônomas autônomas NCMP000 1 -
+   1 autônomo autônomo RG 1 -
+   1 boa-fé boa-fé NCMS000 0.500006 -
+   1 cabimento cabimento NCMS000 1 - added http://wnpt.brlcloud.com/wn/synset?id=05792010-n
+   1 cancelos cancelo NCMP000 1 -
+   2 caput caput I 1 -
+   3 cartório cartório NCMS000 1 -
+   2 cartórios cartório NCMP000 1 -
+   1 caso caso CS 0.161634 -
+   2 certidão certidão NCFS000 1 -
+   1 classistas classista NCCP000 1 -
+   1 co-autores co-autores NCMP000 1 -
+   1 cobrança cobrança NCFS000 1 -
+   9 como como CS 0.751351 -
+   1 comprometimento comprometimento NCMS000 1 -
+   2 concessionárias concessionário AQ0FP00 1 -
+   1 conclusos concluso AQ0MP00 1 -
+   1 conjunta conjunto AQ0FS00 0.71971 -
+   1 conscientemente consciente RG 1 -
+   1 consecutivas consecutiva NCFP000 0.498412 -
+   2 constatar constatar VMN0000 0.529581 -
+   1 constatação constatação NCFS000 1 -
+   2 constitucionalmente constitucional RG 1 -
+   2 constitutivo constitutivo AQ0MS00 1 -
+   2 constitutivos constitutivo AQ0MP00 1 -
+   1 corpus corpus NCMS000 1 -
+   1 credenciada credenciado AQ0FS00 1 -
+   1 credenciados credenciado AQ0MP00 1 -
+   1 credenciamento credenciamento NCMS000 1 -
+   3 cuja cujo PR0FS00 1 -
+   2 cujo cujo PR0MS00 1 -
+   1 cujos cujo PR0MP00 1 -
+   1 cumulativamente cumulativo RG 1 -
+   1 custa custa NCFS000 0.255814 -
+   1 dativo dativo AQ0MS00 0.638708 -
+   1 deliberativo deliberativo AQ0MS00 1 -
+   5 der der NCMS000 0.26534 -
+   1 desagravo desagravo NCMS000 0.909322 -
+   1 descumprimento descumprimento NCMS000 1 -
+   7 desde_que desde_que CS 1 -
+   1 devidamente devido RG 1 -
+  10 direta direta NCFS000 1 -
+   1 disciplinarmente disciplinarmente RG 1 -
+   1 disponibilização disponibilização NCFS000 1 -
+   1 dispor dispor NCMS000 0.346207 -
+   1 doutrinária doutrinário AQ0FS00 1 -
+   1 décuplo décuplo AO0MS00 1 -
+ 223 e e CC 0.999951 -
+   1 efetivamente efetivo RG 1 -
+   1 eleita eleito NCFS000 0.536205 -
+   2 eleitos eleito NCMP000 0.632624 -
+   1 empregados empregado AQ0MP00 0.17119 -
+   2 enquanto enquanto RG 0.97619 -
+   1 escandalosa escandaloso AQ0FS00 1 -
+   2 escrito escrito NCMS000 0.255814 -
+   1 especialmente especial RG 1 -
+   1 esta este PD0FS00 0.122132 -
+   3 este este PD0MS00 0.156516 -
+   2 estes este PD0MP00 0.375776 -
+   3 ex ex AQ0CN00 1 -
+   1 exceto exceto AQ0MS00 0.344651 -
+   2 exclusivamente exclusivo RG 1 -
+   1 exonerável exonerável AQ0CS00 1 -
+   1 extrajudicialmente extrajudicial RG 1 -
+   1 falar falar NCMS000 0.0187713 -
+   1 falecimento falecimento NCMS000 1 -
+   3 federativa federativo AQ0FS00 1 -
+   1 filial filial NCFS000 0.332647 -
+   3 findos findo AQ0MP00 1 -
+   1 fiscalização fiscalização NCFS000 1 -
+   3 flagrante flagrante NCMS000 0.332666 -
+   1 formalmente formal RG 1 -
+   4 fundacional fundacional AQ0CS00 0.947364 -
+   4 geral geral NCCS000 0.152709 -
+   1 gestante gestante NCFS000 0.332636 -
+   1 gravídico gravídico AQ0MS00 1 -
+   1 habeas habeas AQ0CN00 1 -
+   1 habitualidade habitualidade NCFS000 1 -
+   2 habitualmente habitual RG 1 -
+  16 honorários honorário NCMP000 0.632572 -
+   1 hospedagem hospedagem NCFS000 1 -
+   1 ilimitadamente ilimitado RG 1 -
+   1 imediatamente imediato RG 1 -
+   1 imediato imediato NCMS000 0.596154 -
+   1 impetração impetração NCFS000 1 -
+   1 impopularidade impopularidade NCFS000 1 -
+   1 inafiançável inafiançável AQ0CS00 0.859936 -
+   1 incidente incidente AQ0CS00 0.467314 -
+   2 inciso inciso AQ0MS00 0.47489 -
+  10 inciso inciso NCMS000 0.335187 -
+   3 incisos inciso AQ0MP00 0.667236 -
+   6 incisos inciso NCMP000 0.332764 -
+   1 incomunicáveis incomunicável AQ0CP00 0.960748 -
+   2 inconstitucionalidade inconstitucionalidade NCFS000 1 -
+   1 indeferimento indeferimento NCMS000 1 -
+   1 indenização indenização NCFS000 1 -
+   1 individualização individualização NCFS000 1 -
+   1 individualmente individual RG 1 -
+   1 inferiores inferior NCCP000 0.350283 -
+   2 infrator infrator NCMS000 1 -
+   1 inidoneidade inidoneidade NCFS000 1 -
+   1 inidôneo inidôneo AQ0MS00 1 -
+   1 injustificadamente injustificado RG 1 -
+   2 inobservância inobservância NCFS000 1 -
+   1 instauração instauração NCFS000 1 -
+   1 integralmente integral RG 1 -
+   5 integrantes integrante AQ0CP00 1 -
+   1 interessado interessado NCMS000 0.406807 -
+   1 interessados interessado NCMP000 0.406849 -
+   2 interestadual interestadual AQ0CS00 1 -
+   1 intermédio intermédio NCMS000 0.632636 -
+   1 interposição interposição NCFS000 1 -
+   5 intervir intervir VMN0000 0.533333 -
+   1 intuito intuito NCMS000 1 -
+   1 investidura investidura NCFS000 1 -
+   1 investigativo investigativo AQ0MS00 0.904479 -
+   1 investigatórios investigatórios AQ0MP00 0.5 -
+   3 inviolabilidade inviolabilidade NCFS000 1 -
+   1 inépcia inépcia NCFS000 1 -
+   1 irrecorrível irrecorrível AQ0CS00 1 -
+   3 juizados juizados NCMP000 0.133333 -
+   2 julgado julgado NCMS000 0.256849 -
+   2 julgador julgador AQ0MS00 0.36739 -
+   1 juridicamente juridicamente RG 1 -
+   1 justo justo NCMS000 0.635066 -
+   2 lactante lactante AQ0CS00 0.659671 -
+   1 lactante lactante NCFS000 0.340329 -
+   1 lavratura lavratura NCFS000 1 -
+   2 licenciamento licenciamento NCMS000 1 -
+   1 lide lide NCFS000 0.969802 -
+   1 liminar liminar AQ0CS00 0.666758 -
+   1 livremente livre RG 1 -
+   1 mandante mandante NCCS000 0.632636 -
+   1 materialidade materialidade NCFS000 1 -
+   1 merecedor merecedor NCMS000 0.632636 -
+   2 mesma mesmo PI0FS00 0.968254 -
+   1 mesmo mesmo PI0MS00 0.176901 -
+   1 mesmo_que mesmo_que CS 1 -
+   1 moralmente moral RG 1 -
+   1 motivada motivado AQ0FS00 0.307332 -
+   1 munido munir VMP00SM 0.992518 -
+   1 máximo máximo AQ0MS00 0.743902 -
+   1 múnus múnus NCMN000 1 -
+   1 na_íntegra na_íntegra RG 1 -
+   4 nem nem CC 1 -
+   2 notariais notarial AQ0CP00 1 -
+   1 noturnas noturnas NCFP000 0.888813 -
+   1 nutum nutum NCMS000 0.737011 -
+  11 nº nº NCMS000 1 -
+   1 o o PD0MS00 0.0313531 -
+   1 o_máximo o_máximo NCMS000 1 -
+   1 objetivando objetivando VMG0000 1 -
+   1 ofendido ofendido NCMS000 0.256849 -
+   1 oficialmente oficial RG 1 -
+   1 omissos omisso AQ0MP00 1 -
+   8 onde onde RG 0.980752 -
+   1 oneração oneração NCFS000 1 -
+   1 optantes optante NCCP000 0.439815 -
+   2 os o PD0MP00 0.021587 - NA
+ 188 ou ou CC 1 - NA
+   1 outras outro PI0FP00 0.350746 - NA
+   2 pagos pago NCMP000 0.632611 - 
+   1 paraestatais paraestatais AQ0CP00 0.606111 -
+   1 parafiscais parafiscal AQ0CP00 0.667364 -
+   1 partícipes partícipe NCCP000 0.632636 -
+   1 passivamente passivo RG 1 -
+   1 patrona patrona NCFS000 0.5 -
+   1 permanentes permanente NCFP000 0.482636 -
+   1 permissionárias permissionárias AQ0FP00 1 -
+   1 pertencentes pertencente AQ0CP00 1 -
+   1 pessoalmente pessoal RG 1 -
+   1 policial policial AQ0CS00 0.667364 -
+   2 precatório precatório NCMS000 0.584625 -
+   2 preenchimento preenchimento NCMS000 1 -
+   1 preliminar preliminar NCMS000 0.642961 -
+   1 presta presto AQ0FS00 0.569769 -
+   1 preventivamente preventivo RG 1 -
+   1 privativamente privativo RG 1 -
+   1 profissionalmente profissional RG 1 -
+   1 protocolizada protocolizar VMP00SF 1 -
+   1 provimento provimento NCMS000 1 -
+   1 punibilidade punibilidade NCFS000 1 -
+
+   3 qual qual PR0CS00 0.715254 - NA
+   2 qual qual PT0CS00 0.274576 - NA
+  29 quando quando RG 0.998992 - NA
+   1 quantitativos quantitativo NCMP000 0.36605 - added http://wnpt.brlcloud.com/wn/synset?id=00033615-n
+  38 que que CS 0.398036 - NA
+  53 que que PR0CN00 0.584265 - NA
+   1 que que PT0CN00 0.0172141 - NA
+   2 quem quem PR0CN00 0.698606 - NA
+   1 quem quem PT0CN00 0.297909 - NA
+
+   1 quesitos quesito NCMP000 1 - added http://wnpt.brlcloud.com/wn/synset?id=07193596-n 
+   2 quinze_dias quinze_dias NCMP000 1 - NA
+   1 reconduzido reconduzir VMP00SM 0.992518 - prefixo 're' appointed existe PWN, mas re+appointed nao. conduzido no sentido "não podendo ser reconduzido no mesmo período de mandato"
+   
+   1 recorrível recorrível AQ0CS00 1 - added http://wnpt.brlcloud.com/wn/synset?id=00132849-a
+   4 regularmente regular RG 1 - erro lematizacao 
+
+   3 relator relator NCMS000 0.632636 - algumas ocorrencias são https://pt.wikipedia.org/wiki/Juiz_relator
+   1 relatores relator NCMP000 0.628731 - voted in http://wnpt.brlcloud.com/wn/synset?id=10507565-n mas tem sentido específico
+
+   1 reservadamente reservado RG 1 - erro lematizazcao afixos 
+   1 respectivamente respectivo RG 1 - erro lematizacao afixos
+   1 restante restante NCCS000 0.432636 - added to http://wnpt.brlcloud.com/wn/synset?id=13810818-n
+   1 revalidado revalidar VMP00SM 0.992518 - o prefixo 're' muda semantica? senão http://wnpt.brlcloud.com/wn/search?term=validate se sim não temos em PWN
+
+   1 revel revel AQ0CS00 0.645546 - 'que deixa de comparecer para sua defesa', existe em https://pt.wiktionary.org/wiki/revel#Middle_English, tem PWN? 
+
+   1 rigorosamente rigoroso RG 1 - nao é contexto de http://wnpt.brlcloud.com/wn/synset?id=00179112-r, added to http://wnpt.brlcloud.com/wn/synset?id=00221429-r
+
+  12 salvo salvo RG 0.473804 - erro POS tagging, PREPOSICAO, NA
+
+   6 se se CS 0.138341 - NA
+
+   1 seguridade seguridade NCFS000 1 - ocorre em 'seguridade complementar' e parece neste contexto nao ser https://pt.wikipedia.org/wiki/Seguridade_social mas apenas a previdencia complementar.
+
+   1 senão senão RG 0.953488 - NA
+   1 servidor servidor AQ0MS00 0.442309 - nem sempre 'servidor público' mas seria sempre com esta intenção? seria http://wnpt.brlcloud.com/wn/synset?id=09925459-n ?
+   1 seus seu AP0MP3P 0.070442 - NA
+   1 solidariamente solidariamente RG 1 - added http://wnpt.brlcloud.com/wn/synset?id=00117082-r
+   1 subsequentemente subsequente RG 1 - erro lematizacao (mente) in http://wnpt.brlcloud.com/wn/synset?id=00061203-r
+
+   1 subsidiariamente subsidiariamente RG 1 - nao PWN
+   1 subsidiária subsidiário AQ0FS00 0.517364 - added http://wnpt.brlcloud.com/wn/synset?id=01854129-a mas na verdade a ocorrencia abaixo é uma contração do adverbio acima.
+
+Além da sociedade, o sócio e o titular da sociedade individual de advocacia respondem subsidiária e ilimitadamente pelos danos causados aos clientes por ação ou omissão no exercício da advocacia, sem prejuízo da responsabilidade disciplinar em que possam incorrer.
+
+   1 substabelecido substabelecer VMP00SM 0.721918 - nao PWN? https://www.juridicos.com.br/substabelecimento-reserva-de-poderes/
+   1 substabelecimento substabelecimento NCMS000 1 - nao PWN? 'troca de um advogado por outro' hypo de substitution (in law)
+
+O advogado substabelecido, com reserva de poderes, não pode cobrar honorários sem a intervenção daquele que lhe conferiu o substabelecimento.
+
+   5 sucumbência sucumbência NCFS000 1 - em geral 'honorários de sucumbência' mas também ocorre isoladamente. Não tem PWN
+   1 suplente suplente AQ0CS00 0.624504 - added http://wnpt.brlcloud.com/wn/search?term=word_en%3Asubstitute
+   1 suspensivo suspensivo AQ0MS00 1 - added http://wnpt.brlcloud.com/wn/synset?id=02405805-a
+   1 sócio sócio AQ0MS00 0.367372 - erro de POS tagging na sentença
+
+Não são admitidas a registro nem podem funcionar todas as espécies de sociedades de advogados que apresentem forma ou características de sociedade empresária, que adotem denominação de fantasia, que realizem atividades estranhas à advocacia, que incluam como [sócio] ou titular de sociedade unipessoal de advocacia pessoa não inscrita como advogado ou totalmente proibida de advogar.  
+
+tanto o PALAVRAS quanto UDPipe classificam como Noun
+   
+   1 telefônica telefônica AQ0FS00 0.874883 - erro lematizacao added dict freeling
+   1 telemática telemática NCFS000 1 - missing telematic in PWN + erro pos (?)
+   5 terceiro terceiro AO0MS00 0.992424 - voted http://wnpt.brlcloud.com/wn/synset?id=02202307-a
+   5 terceiros terceiro AO0MP00 1 - voted http://wnpt.brlcloud.com/wn/synset?id=02202307-a
+   5 todas_as todas_as PI0FP00 1 - NA
+   1 todos todo PI0MP00 0.301913 - NA
+   1 totalmente total RG 1 - erro lematizacao afixos
+   1 trienalmente trienal RG 1 -  (missing PWN the adv) (?)
+   1 ultimação ultimação NCFS000 1 - added
+   9 unipessoal unipessoal AQ0CS00 1 - MWE 'sociedade unipessoal' (?)
+   1 urbanidade urbanidade NCFS000 1 - added
+   1 verbalmente verbal RG 1 - erro lematizacao afixos
+   1 violar violar NCMS000 0.0805 -  erro postag
