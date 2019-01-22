@@ -302,9 +302,9 @@ saida freeling da lei 8906:
    1 profissionalmente profissional RG 1 - erro lematizacao, http://wnpt.brlcloud.com/wn/synset?id=00130432-r
    1 protocolizada protocolizar VMP00SF 1 - verbo? added to http://wnpt.brlcloud.com/wn/synset?id=01001857-v 
 
-   1 provimento provimento NCMS000 1 - consultado https://www.direitonet.com.br/dicionario/exibir/890/Provimento dois sentidos jur
+   1 provimento provimento NCMS000 1 - consultado https://www.direitonet.com.br/dicionario/exibir/890/Provimento dois sentidos jur, added acolher em http://wnpt.brlcloud.com/wn/synset?id=00896017-v
    1 Provimentos provimentos NP00G00 1 - erro lematizacao + added http://wnpt.brlcloud.com/wn/synset?id=06755947-n, 
-   2 Provimentos provimentos NP00V00 1 - erro lematizacao
+   2 Provimentos provimentos NP00V00 1 - erro lematizacao 
 
    1 punibilidade punibilidade NCFS000 1 -
 
