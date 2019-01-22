@@ -284,8 +284,8 @@ saida freeling da lei 8906:
    1 partícipes partícipe NCCP000 0.632636 -
    1 passivamente passivo RG 1 -
    1 patrona patrona NCFS000 0.5 -
-   1 permanentes permanente NCFP000 0.482636 -
-   1 permissionárias permissionárias AQ0FP00 1 -
+   1 permanentes permanente NCFP000 0.482636 - erro POS tagging (tem adj)
+   1 permissionárias permissionárias AQ0FP00 1 - erro POS e lemma , contexto 'empresas concessionárias ou permissionárias' MWE? como Noun in http://wnpt.brlcloud.com/wn/synset?id=10258493-n
    1 pertencentes pertencente AQ0CP00 1 -
    1 pessoalmente pessoal RG 1 -
    1 policial policial AQ0CS00 0.667364 -
