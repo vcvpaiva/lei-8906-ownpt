@@ -167,7 +167,7 @@ patrocínio patrocínio NCMS000 1 01215036-n:0
 ; ; Fx 1 -
 acarretar acarretar VMN0000 0.529581 02633218-v:0
 , , Fc 1 -
-conscientemente consciente RG 1 -
+conscientemente consciente AQ0CS 1 00570590-a:0/01337767-a:0/01977155-a:0
 , , Fc 1 -
 por por SP 1 -
 ato ato NCMS000 0.914009 00030358-n:0/00037396-n:0/00550341-n:0/06532095-n:0/06545137-n:0/07009640-n:0
@@ -232,7 +232,7 @@ imprensa imprensa NCFS000 0.992933 03999992-n:0/04000311-n:0/06263369-n:0/081682
 , , Fc 1 -
 desnecessária desnecessário AQ0FS00 1 00549826-a:0/01581115-a:0/01582049-a:0
 e e CC 0.999951 -
-habitualmente habitual RG 1 -
+habitualmente habitual AQ0CS 1 00024417-a:0/00489108-a:0/00489491-a:0/00489863-a:0/00606079-a:0/01067003-a:0
 , , Fc 1 -
 alegações alegação NCFP000 1 06559365-n:0/07236077-n:0
 forenses forense AQ0CP00 1 00863361-a:0/02017613-a:0
@@ -335,7 +335,7 @@ esta este DD0FS0 0.877868 - este PD0FS00 0.122132 -
 , , Fc 1 -
 depois depois RG 1 00054212-r:0/00117620-r:0/00146281-r:0
 de de SP 1 -
-regularmente regular RG 1 -
+regularmente regular AQ0CS 1 01959294-a:0/01961937-a:0/01970777-a:0/02296632-a:0
 notificado notificar VMP00SM 0.992518 00832778-v:0/00833199-v:0/00873682-v:0/00874175-v:0/00965390-v:0
 ; ; Fx 1 -
 prestar prestar VMN0000 0.529581 00732224-v:0/02324182-v:0
@@ -426,7 +426,7 @@ pessoa pessoa NCFS000 1 00007846-n:0/04617562-n:0/05217688-n:0/06326797-n:0/1020
 recusar recusar VMN03S0 1 00686249-v:0/00796976-v:0/00797430-v:0/02214190-v:0/02237338-v:0/02502916-v:0/02707800-v:0/02755017-v:0
 se se PP3CN00 1 -
 , , Fc 1 -
-injustificadamente injustificado RG 1 -
+injustificadamente injustificado AQ0FS 1 01945350-a:0
 , , Fc 1 -
 a a SP 0.313151 -
 prestar prestar VMN0000 0.529581 00732224-v:0/02324182-v:0
@@ -449,7 +449,7 @@ ele ele PP3MS00 1 -
 ; ; Fx 1 -
 reter reter VMN0000 0.533333 00610010-v:0/01301410-v:0/02202384-v:0/02213690-v:0/02215001-v:0/02283324-v:0/02451370-v:0/02641463-v:0/02681795-v:0/02701628-v:0
 , , Fc 1 -
-abusivamente abusivo RG 1 -
+abusivamente abusivo AQ0FS 1 01160584-a:0
 , , Fc 1 -
 ou ou CC 1 -
 extraviar extraviar VMN0000 0.529581 00876104-v:0
@@ -479,7 +479,7 @@ OAB oab NP00V00 1 -
 , , Fc 1 -
 depois depois RG 1 00054212-r:0/00117620-r:0/00146281-r:0
 de de SP 1 -
-regularmente regular RG 1 -
+regularmente regular AQ0CS 1 01959294-a:0/01961937-a:0/01970777-a:0/02296632-a:0
 notificado notificar VMP00SM 0.992518 00832778-v:0/00833199-v:0/00873682-v:0/00874175-v:0/00965390-v:0
 a a SP 0.313151 -
 fazê fazer VMN0000 1 00012267-v:0/00120316-v:0/00665476-v:0/00698256-v:0/00767334-v:0/01438902-v:0/01619014-v:0/01621555-v:0/01627355-v:0/01628197-v:0/01629000-v:0/01629589-v:0/01640207-v:0/01645601-v:0/01649024-v:0/01685313-v:0/01712704-v:0/01714208-v:0/01719921-v:0/01738774-v:0/01739814-v:0/01752495-v:0/01752884-v:0/01755504-v:0/02176268-v:0/02211948-v:0/02355596-v:0/02367363-v:0/02374764-v:0/02582921-v:0/02599636-v:0/02621133-v:0/02745332-v:0
@@ -517,7 +517,7 @@ OAB oab NP00O00 1 -
 ; ; Fx 1 -
 tornar tornar VMN03S0 1 00120796-v:0/00146138-v:0/00149583-v:0
 se se PP3CN00 1 -
-moralmente moral RG 1 -
+moralmente moral AQ0CS 1 01548193-a:0/01780596-a:0
 inidôneo inidôneo AQ0MS00 1 -
 para para SP 0.999444 -
 o o DA0MS0 0.950254 -

@@ -43,7 +43,7 @@ escrita escrever VMP00SF 0.422003 00993014-v:0/01007027-v:0/01691057-v:0/0169827
 , , Fc 1 -
 eletrônica eletrônico AQ0FS00 0.629829 02718497-a:0/02718719-a:0
 , , Fc 1 -
-telefônica telefônica AQ0FS00 0.874883 -
+telefônica telefônico AQ0FS00 1 03123434-a:0
 e e CC 0.999951 -
 telemática telemática NCFS000 1 -
 , , Fc 1 -
@@ -64,7 +64,7 @@ clientes cliente NCCP000 1 09984659-n:0/09985075-n:0/10407726-n:0
 , , Fc 1 -
 pessoal pessoal AQ0CS00 0.708333 01616157-a:0/01767329-a:0
 e e CC 0.999951 -
-reservadamente reservado RG 1 -
+reservadamente reservado AQ0FS 1 01988024-a:0/01988324-a:0
 , , Fc 1 -
 mesmo mesmo RG 0.820175 00037226-r:0
 sem sem SP 1 -
@@ -173,7 +173,7 @@ em em SP 1 -
 prisão prisão NCFS000 1 01161635-n:0/02805443-n:0/03592245-n:0/03684740-n:0/03823540-n:0/04005630-n:0/04005630-n:0
 domiciliar domiciliar VMN0000 0.529581 02650552-v:0
 ingressar ingressar VMN0000 0.529581 02434976-v:0
-livremente livre RG 1 -
+livremente livre AQ0CS 1 00518848-a:0/01061489-a:0
 : : Fd 1 -
 em em SP 1 -
 as o DA0FP0 1 -
@@ -233,9 +233,9 @@ de de SP 1 -
 a o DA0FS0 0.675415 - a SP 0.313151 - o PP3FSA0 0.00613742 - o PD0FS00 0.00514062 - a NCMS000 0.000156639 06831177-n:0
 hora hora NCFS000 0.989637 05131023-n:0/15116910-n:0/15129927-n:0/15225249-n:0/15227846-n:0/15228378-n:0/15228910-n:0/15245515-n:0/15270431-n:0
 de de SP 1 -
-expediente expediente NCMS000 0.488193 00047745-n:0
+expediente expediente AQ0CS00 0.511807 -
 e e CC 0.999951 -
-independentemente independente RG 1 00118531-r:0
+independentemente independente AQ0CS 1 00727564-a:0/00731606-a:0/01062393-a:0/02522938-a:0
 de de SP 1 -
 a o DA0FS0 0.675415 - a SP 0.313151 - o PP3FSA0 0.00613742 - o PD0FS00 0.00514062 - a NCMS000 0.000156639 06831177-n:0
 presença presença NCFS000 1 01233397-n:0/01233802-n:0/04910377-n:0/05917174-n:0/08642632-n:0/09547528-n:0/13957601-n:0
@@ -345,7 +345,7 @@ o o DA0MS0 1 -
 inciso inciso NCMS000 0.335187 -
 anterior anterior AQ0CS00 1 00122128-a:0/00668816-a:0/00814611-a:0/01729819-a:0
 , , Fc 1 -
-independentemente independente RG 1 00118531-r:0
+independentemente independente AQ0CS 1 00727564-a:0/00731606-a:0/01062393-a:0/02522938-a:0
 de de SP 1 -
 licença licença NCFS000 1 01139194-n:0/06549661-n:0/13994806-n:0/13995378-n:0/15139130-n:0/15139432-n:0
 ; ; Fx 1 -
@@ -363,7 +363,7 @@ gabinetes gabinete NCMP000 1 03175081-n:0
 de de SP 1 -
 trabalho trabalho NCMS000 0.997967 00575741-n:0/00576717-n:0/00576877-n:0/00581241-n:0/00582388-n:0/00584367-n:0/00620752-n:0/00621476-n:0/00796886-n:0/03599628-n:0/04599396-n:0/04602044-n:0/08137495-n:0/08137495-n:0
 , , Fc 1 -
-independentemente independente RG 1 00118531-r:0
+independentemente independente AQ0CS 1 00727564-a:0/00731606-a:0/01062393-a:0/02522938-a:0
 de de SP 1 -
 horário horário NCMS000 0.980769 05910940-n:0/06495328-n:0/06496397-n:0/06496499-n:0/15270245-n:0
 previamente previamente RG 1 00060632-r:0
@@ -429,7 +429,7 @@ feitas fazer VMP00PF 0.984962 00012267-v:0/00120316-v:0/00665476-v:0/00698256-v:
 ; ; Fx 1 -
 reclamar reclamar VMN0000 0.529581 00610928-v:0/00844298-v:0/00844941-v:0/00907147-v:0/00910891-v:0/00910973-v:0/01051956-v:0/02275365-v:0
 , , Fc 1 -
-verbalmente verbal RG 1 -
+verbalmente verbal AQ0CS 1 00500310-a:0/02230581-a:0/02284324-a:0/02823724-a:0
 ou ou CC 1 -
 por por SP 1 -
 escrito escrever VMP00SM 0.72093 00993014-v:0/01007027-v:0/01691057-v:0/01698271-v:0/01699896-v:0/01704452-v:0/01705494-v:0/01744611-v:0/02213270-a:0/02284578-a:0/02286661-a:0
@@ -756,7 +756,7 @@ ou ou CC 1 -
 depoimento depoimento NCMS000 1 06732710-n:0/06734467-n:0
 e e CC 0.999951 -
 , , Fc 1 -
-subsequentemente subsequente RG 1 -
+subsequentemente subsequente AQ0CS 1 00122626-a:0/00127661-a:0
 , , Fc 1 -
 de de SP 1 -
 todos todo DI0MP0 0.698087 -
@@ -1195,8 +1195,8 @@ averiguado averiguar VMP00SM 0.992514 00785962-v:0
 que que CS 0.398036 -
 estejam estar VMSP3P0 0.97619 00149583-v:0/01857392-v:0/02604760-v:0/02655135-v:0/02729963-v:0/02734338-v:0/02744820-v:0
 sendo ser VMG0000 1 01717851-v:0/02597601-v:0/02603699-v:0/02604760-v:0/02627363-v:0/02749904-v:0
-formalmente formal RG 1 -
-investigados investigar VMP00PM 0.72182 00648224-v:0/00649481-v:0/00785962-v:0/00788564-v:0/00877327-v:0
+formalmente formal AQ0CS 1 01041916-a:0/01045216-a:0/01633153-a:0
+investigados investigado NCMP000 0.256935 -
 como como CS 0.751351 -
 seus seu DP3MPS 0.857735 -
 partícipes partícipe NCCP000 0.632636 -
