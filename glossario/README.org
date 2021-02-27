@@ -3,5 +3,6 @@
 1. http://www.stf.jus.br/portal/glossario/
 2. http://www.mpf.mp.br/es/sala-de-imprensa/glossario-de-termos-juridicos
 3. http://www.trtsp.jus.br/consultas/221-pagina-principal/atendimento-e-servicos-trt2/1422-glossario-de-termos-juridicos
+4. https://www.tjdft.jus.br/institucional/imprensa/campanhas-e-produtos/direito-facil
 
 The (3) saved in glossario.xml
