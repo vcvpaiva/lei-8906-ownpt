@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>259</sentences><tokens>10257</tokens><words>11342</words><fused>1085</fused></total>
+  </size>
+  <lemmas unique="1519" /><!-- o, de, ,, em, e, ., a, ou, -, ;, ser, por, advogado, que, seu -->
+  <forms unique="1927" /><!-- de, ,, a, o, em, os, e, ., ou, -, ;, por, as, que, conselho -->
+  <fusions unique="72" /><!-- da, do, no, dos, na, ao, à, das, nos, pelo, aos, nas, pela, deste, desta -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">785</tag><!-- disciplinar, geral, profissional, ii, jurídico, respectivo, público, iii, competente, judicial -->
+    <tag name="ADP">2036</tag><!-- de, em, a, por, com, para, sem, o, sobre, como -->
+    <tag name="ADV">240</tag><!-- não, quando, mais, ainda, mesmo, fora, inclusive, antes, como, além -->
+    <tag name="AUX">155</tag><!-- ser, ter, estar, for -->
+    <tag name="CCONJ">442</tag><!-- e, ou, nem, quanto -->
+    <tag name="DET">1780</tag><!-- o, seu, este, qualquer, todo, um, outro, a, cada, cujo -->
+    <tag name="NOUN">2442</tag><!-- advogado, advocacia, exercício, lei, órgão, direito, membro, sociedade, processo, inscrição -->
+    <tag name="NUM">111</tag><!-- cinco, dois, um, 34, três, 1, 31, dez, quinze, seis -->
+    <tag name="PRON">234</tag><!-- que, se, ele, o, este, onde, ela, qual, aquele, eles -->
+    <tag name="PROPN">650</tag><!-- Conselho, OAB, Seccional, Federal, I, ética, disciplina, advogados, Caixa, Conselhos -->
+    <tag name="PUNCT">1398</tag><!-- ,, ., -, ;, :, ), (, §, –, 8º; -->
+    <tag name="SCONJ">132</tag><!-- que, a, de, para, se, quando, desde, até, o, por -->
+    <tag name="VERB">937</tag><!-- dever, poder, ter, exercer, fazer, prever, haver, fixar, considerar, constituir -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="34">
+    <feat name="Case" value="Acc" upos="PRON">84</feat><!-- se, lo, o, os, la, a, los -->
+    <feat name="Case" value="Dat" upos="PRON">10</feat><!-- lhe -->
+    <feat name="Definite" value="Def" upos="DET">1513</feat><!-- o, a, os, as -->
+    <feat name="Definite" value="Ind" upos="DET">21</feat><!-- um, uma -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">2603</feat><!-- a, as, OAB, advocacia, lei, sociedade, inscrição, esta, que, diretoria -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">3374</feat><!-- o, os, conselho, advogado, que, se, seu, exercício, advogados, este -->
+    <feat name="Gender" value="Unsp" upos="NOUN,PRON">16</feat><!-- se, clientes, quem -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">297</feat><!-- é, deve, são, pode, têm, cabe, será, aplica, compete, devem -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">86</feat><!-- tenha, for, houver, der, deva, seja, estejam, tenham, couber, disciplinar -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">1555</feat><!-- os, as, advogados, seus, membros, que, são, honorários, II, autos -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5039</feat><!-- o, a, conselho, advogado, OAB, advocacia, seccional, que, se, lei -->
+    <feat name="NumType" value="Card" upos="NUM">109</feat><!-- cinco, dois, 34, três, um, 1, 31, dez, quinze, seis -->
+    <feat name="NumType" value="Mult" upos="NUM">2</feat><!-- cento -->
+    <feat name="NumType" value="Ord" upos="ADJ">101</feat><!-- II, III, XIV, terços, terceiro, XVII, primeiro, 1º, 3º, VI -->
+    <feat name="Person" value="1" upos="VERB">3</feat><!-- ouvi, preste, voto -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">495</feat><!-- se, é, deve, são, pode, ele, lhe, tenha, têm, cabe -->
+    <feat name="Polarity" value="Neg" upos="ADV">50</feat><!-- não -->
+    <feat name="PronType" value="Art" upos="DET">1537</feat><!-- o, a, os, as, um, uma -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">88</feat><!-- este, esta, o, os, aquele, a, as, esses, estes, essa -->
+    <feat name="PronType" value="Emp" upos="DET">4</feat><!-- próprio, secretarias -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">63</feat><!-- qualquer, demais, outro, outra, outras, eleitos, tal, diferentes, quaisquer, que -->
+    <feat name="PronType" value="Neg" upos="DET">2</feat><!-- Nenhum -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">204</feat><!-- se, seu, seus, sua, ele, lhe, suas, lo, o, ela -->
+    <feat name="PronType" value="Rel" upos="DET,PRON">87</feat><!-- que, onde, qual, cuja, quem, cujo, cujos, quinhentos -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">29</feat><!-- todos, cada, todas, todo, toda -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">66</feat><!-- for, será, houver, der, poderá, couber, deverá, disciplinar, fizer, forem -->
+    <feat name="Tense" value="Imp" upos="VERB">3</feat><!-- Licencia, devolva, iniciam -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">11</feat><!-- Consideram, conferiu, deu, foi, funcionou, houve, motivaram, observe, ouvi, pagou -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">303</feat><!-- é, deve, são, pode, tenha, têm, cabe, aplica, compete, devem -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">383</feat><!-- é, deve, são, pode, tenha, têm, cabe, for, será, aplica -->
+    <feat name="VerbForm" value="Ger" upos="AUX,VERB">52</feat><!-- podendo, sendo, devendo, havendo, aguardando, ficando, tendo, Ocorrendo, afirmando, alterando -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">331</feat><!-- ser, exercer, fixar, promover, fazer, praticar, requerer, editar, intervir, prestar -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">326</feat><!-- previstos, assegurado, vedada, composta, definidas, empregado, estabelecidos, previsto, sido, considerada -->
+    <feat name="Voice" value="Pass" upos="VERB">126</feat><!-- composta, admitido, assegurado, averbado, concedido, condenado, criada, cumprido, decididas, feita -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="32">
+    <dep name="acl">234</dep>
+    <dep name="acl:relcl">87</dep>
+    <dep name="advcl">112</dep>
+    <dep name="advmod">211</dep>
+    <dep name="amod">668</dep>
+    <dep name="appos">145</dep>
+    <dep name="aux">15</dep>
+    <dep name="aux:pass">91</dep>
+    <dep name="case">2005</dep>
+    <dep name="cc">448</dep>
+    <dep name="ccomp">11</dep>
+    <dep name="compound">2</dep>
+    <dep name="conj">661</dep>
+    <dep name="cop">48</dep>
+    <dep name="csubj">3</dep>
+    <dep name="det">1765</dep>
+    <dep name="expl">47</dep>
+    <dep name="fixed">48</dep>
+    <dep name="flat:name">138</dep>
+    <dep name="iobj">23</dep>
+    <dep name="mark">138</dep>
+    <dep name="nmod">1162</dep>
+    <dep name="nsubj">260</dep>
+    <dep name="nsubj:pass">73</dep>
+    <dep name="nummod">65</dep>
+    <dep name="obj">474</dep>
+    <dep name="obl">502</dep>
+    <dep name="obl:agent">52</dep>
+    <dep name="parataxis">23</dep>
+    <dep name="punct">1398</dep>
+    <dep name="root">259</dep>
+    <dep name="xcomp">174</dep>
+  </deps>
+</treebank>

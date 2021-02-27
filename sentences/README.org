@@ -1,0 +1,23 @@
+
+http://wikifier.org
+
+user: arademaker
+userkey: qirghckzkhuqjrssrowmzgpcclupyp
+
+#+begin_src bash
+mkdir tmp
+cd tmp
+split -p "CAPÍTULO" ../lei-8906.sent
+for f in x*; do 
+ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -d 'userKey=qirghckzkhuqjrssrowmzgpcclupyp' -d 'lang=pt' -d 'secondaryAnnotLanguage=pt' -d 'wikiDataClasses=true' -d 'ranges=true' -d 'partsOfSpeech=true' -d 'text@$f' -d 'support=true' http://www.wikifier.org/annotate-article > $f.tmp; 
+ cat $f.tmp| jq > $f.json; 
+done
+#+end_src
+
+
+#+begin_src bash
+egrep -v "^§|^Art|Parágrafo|TÍTULO|CAPÍ" lei-8906.sent > lei.8906.tmp
+~/work/udpipe-1.2.0/bin-osx/udpipe --outfile={}.conllu --tokenizer="presegmented;normalized_spaces;ranges" --tag --parse ~/work/udpipe-1.2.0/models/portuguese-bosque-ud-2.5-191206.udpipe lei-8906.tmp
+perl ~/work/ud-tools/conllu-stats.pl lei-8906.conllu > lei-8906.stats
+#+end_src
+
